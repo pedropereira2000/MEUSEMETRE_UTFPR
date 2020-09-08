@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    background: black;
+}
+
+form {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    width: 96vw;
+    margin-bottom: 5rem;
+    position: absolute;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    background: rgb(175, 169, 169);
+}
+
+form input {
+    margin-bottom: 5rem;
+    border-radius: 0.3rem;
+}
+
+form #difficult {
+    margin-left: 2rem;
+}
+
+div#blocks{
+    margin-top:  7rem;
+    z-index: 1;
+    width: 90vw;
+}
+
+#blocks{
+    border-radius: 0.5rem;
+    padding: 1rem;
+    background: rgb(74, 78, 74);
+}
