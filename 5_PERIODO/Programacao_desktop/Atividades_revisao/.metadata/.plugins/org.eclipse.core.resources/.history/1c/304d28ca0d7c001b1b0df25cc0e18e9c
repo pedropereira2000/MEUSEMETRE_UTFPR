@@ -1,0 +1,23 @@
+package Aleatorio;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class AleatorioTest {
+
+	@Test
+	void testInicioIntervaloNegativo() {
+		Aleatorio al = new Aleatorio();
+		
+		al.gerarNumeroAleatorio(-2, 10);
+	}
+	
+	@Test
+	void testFimIntervaloNegativo() {
+		Aleatorio al = new Aleatorio();
+		
+		al.gerarNumeroAleatorio(0, -5);
+	}
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Pedro Pereira\Desktop\UTFPR\TESTE_DE_SOFTWARE\Aulas\.metadata\.plugins\org.eclipse.jdt.core
+3351338590.index
+1590169572.index
+1050621177.index

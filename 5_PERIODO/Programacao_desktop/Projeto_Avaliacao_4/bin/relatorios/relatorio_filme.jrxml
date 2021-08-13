@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.2.2.final using JasperReports Library version 6.2.2  -->
+<!-- 2021-05-24T18:41:58 -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="relatorio_filme" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="0ad6ef15-cabb-4884-9a29-38eefeeb497e">
+	<property name="com.jaspersoft.studio.data.sql.tables" value="ZmlsbWVzICwxNSwxNSxhYjY0ZWI3My1mNGYxLTQ2N2EtODJkNS1mMTllNjJiNWNiNmM7"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="DataAdapter.xml"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT *
+FROM filmes
+ORDER BY filmes.titulo DESC]]>
+	</queryString>
+	<field name="titulo" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="titulo"/>
+		<property name="com.jaspersoft.studio.field.label" value="titulo"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="filmes"/>
+	</field>
+	<field name="genero" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="genero"/>
+		<property name="com.jaspersoft.studio.field.label" value="genero"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="filmes"/>
+	</field>
+	<field name="duracao" class="java.lang.Integer">
+		<property name="com.jaspersoft.studio.field.name" value="duracao"/>
+		<property name="com.jaspersoft.studio.field.label" value="duracao"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="filmes"/>
+	</field>
+	<field name="classificacao" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="classificacao"/>
+		<property name="com.jaspersoft.studio.field.label" value="classificacao"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="filmes"/>
+	</field>
+	<field name="studio" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="studio"/>
+		<property name="com.jaspersoft.studio.field.label" value="studio"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="filmes"/>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="160" y="20" width="249" height="30" uuid="fe97af29-c9fb-49f5-8b10-3b7b4b64f867"/>
+				<textElement textAlignment="Center">
+					<font size="21" isBold="true"/>
+				</textElement>
+				<text><![CDATA[RELATÓRIO DE FILMES]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="33" splitType="Stretch">
+			<staticText>
+				<reportElement x="90" y="0" width="400" height="30" uuid="6363d7db-084a-44ab-95e3-1a2bd6691e7e"/>
+				<textElement textAlignment="Center">
+					<font size="15"/>
+				</textElement>
+				<text><![CDATA[Relatório dos filmes já cadastrados no banco de dados]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="32" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="109" height="30" uuid="656eaf83-28f9-4fb2-b3c5-8a7fee8a0520"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[TITULO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="109" y="0" width="100" height="30" uuid="3557c340-8a27-4421-8bd1-354d4131961f"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[GENÊRO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="209" y="0" width="100" height="30" uuid="7acd6cde-de51-4955-bc29-ff36150d4fbe"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[DURAÇÃO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="309" y="0" width="100" height="30" uuid="65254eb1-3763-4d50-851a-b1376237783d"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[CLASSIFICAÇÃO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="410" y="0" width="100" height="30" uuid="699d1086-c40f-4b19-925c-64503fb512ff"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[STUDIO]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="34" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="109" height="30" uuid="eebf32ac-1e6f-4309-85db-287888437e3c"/>
+				<textFieldExpression><![CDATA[$F{titulo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="109" y="0" width="100" height="30" uuid="063be05e-6b53-4106-bbfa-9b53bc1b26ea"/>
+				<textFieldExpression><![CDATA[$F{genero}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="209" y="0" width="100" height="30" uuid="66f7bd0a-3230-4907-92f7-13f7a84245b4"/>
+				<textFieldExpression><![CDATA[$F{duracao}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="309" y="0" width="100" height="30" uuid="8ee74a08-7f10-4a8d-b8d7-2d977e8d4174"/>
+				<textFieldExpression><![CDATA[$F{classificacao}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="409" y="0" width="100" height="30" uuid="ba7d4b54-265c-46f9-a4c1-9c539adb99e3"/>
+				<textFieldExpression><![CDATA[$F{studio}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,3041 @@
+name,language,numberOfFiles,loc
+cad-client-ms-notification,C#,7,150
+cad-client-ms-notification,YAML,2,60
+cad-client-ms-notification,MSBuild script,2,32
+cad-client-ms-notification,Markdown,1,27
+cad-client-ms-notification,total,12,269
+pa-ms-garnishment,C#,265,71594
+pa-ms-garnishment,Smalltalk,11,6228
+pa-ms-garnishment,JSON,8,344
+pa-ms-garnishment,YAML,9,280
+pa-ms-garnishment,MSBuild script,9,181
+pa-ms-garnishment,Markdown,1,16
+pa-ms-garnishment,Dockerfile,1,9
+pa-ms-garnishment,DOS Batch,1,1
+pa-ms-garnishment,total,305,78653
+api-cad-consent,Markdown,1,16
+api-cad-consent,total,1,16
+cd-ms-authorizer-mastercard,C#,173,8947
+cd-ms-authorizer-mastercard,JSON,15,597
+cd-ms-authorizer-mastercard,YAML,14,584
+cd-ms-authorizer-mastercard,MSBuild script,13,263
+cd-ms-authorizer-mastercard,Smalltalk,3,166
+cd-ms-authorizer-mastercard,Markdown,1,19
+cd-ms-authorizer-mastercard,total,219,10576
+pix-jdpi-cabine-web,Markdown,1,16
+pix-jdpi-cabine-web,total,1,16
+cd-client-transactionbroker,C#,29,1103
+cd-client-transactionbroker,YAML,2,99
+cd-client-transactionbroker,MSBuild script,3,63
+cd-client-transactionbroker,Markdown,1,16
+cd-client-transactionbroker,total,35,1281
+trn-svc-interop,XML,13,1277
+trn-svc-interop,Maven,5,272
+trn-svc-interop,Bourne Shell,2,217
+trn-svc-interop,DOS Batch,2,148
+trn-svc-interop,Java,2,80
+trn-svc-interop,YAML,1,53
+trn-svc-interop,Markdown,2,17
+trn-svc-interop,SQL,1,1
+trn-svc-interop,total,28,2065
+arq-lib-message-manager,C#,54,1905
+arq-lib-message-manager,MSBuild script,9,140
+arq-lib-message-manager,JSON,9,137
+arq-lib-message-manager,Markdown,1,102
+arq-lib-message-manager,YAML,2,49
+arq-lib-message-manager,total,75,2333
+pm-ms-subacquiring-bff,C#,108,3287
+pm-ms-subacquiring-bff,JSON,14,469
+pm-ms-subacquiring-bff,YAML,10,329
+pm-ms-subacquiring-bff,MSBuild script,9,286
+pm-ms-subacquiring-bff,Markdown,1,16
+pm-ms-subacquiring-bff,Dockerfile,1,9
+pm-ms-subacquiring-bff,total,143,4396
+do-tf-adls,YAML,1,88
+do-tf-adls,total,1,88
+interop-ios,Markdown,1,16
+interop-ios,total,1,16
+cad-ms-kyc,Smalltalk,16,6515
+cad-ms-kyc,C#,136,4985
+cad-ms-kyc,YAML,9,266
+cad-ms-kyc,MSBuild script,6,158
+cad-ms-kyc,JSON,6,126
+cad-ms-kyc,Markdown,2,42
+cad-ms-kyc,Dockerfile,1,11
+cad-ms-kyc,total,176,12103
+do.downtime.test,C#,28,1094
+do.downtime.test,YAML,6,173
+do.downtime.test,MSBuild script,3,45
+do.downtime.test,JSON,2,36
+do.downtime.test,Markdown,1,17
+do.downtime.test,Dockerfile,1,10
+do.downtime.test,total,41,1375
+bcc-qa-integration-payments,JSON,2,29665
+bcc-qa-integration-payments,Markdown,1,16
+bcc-qa-integration-payments,total,3,29681
+do-tf-hbase,YAML,1,59
+do-tf-hbase,Markdown,1,17
+do-tf-hbase,total,2,76
+ssd.puppet.enc,Python,1,25
+ssd.puppet.enc,total,1,25
+qa-automation-trn-transfer,C#,56,2697
+qa-automation-trn-transfer,JSON,1,41
+qa-automation-trn-transfer,MSBuild script,1,35
+qa-automation-trn-transfer,Markdown,1,16
+qa-automation-trn-transfer,total,59,2789
+bcc-ms-security,C#,99,2787
+bcc-ms-security,YAML,7,262
+bcc-ms-security,MSBuild script,9,206
+bcc-ms-security,Protocol Buffers,5,122
+bcc-ms-security,XML,1,108
+bcc-ms-security,JSON,3,83
+bcc-ms-security,Dockerfile,1,20
+bcc-ms-security,Markdown,1,16
+bcc-ms-security,total,126,3604
+cd-ms-posting-mastercard,Java,601,44865
+cd-ms-posting-mastercard,SQL,152,11280
+cd-ms-posting-mastercard,XML,54,3196
+cd-ms-posting-mastercard,Maven,24,3137
+cd-ms-posting-mastercard,YAML,47,2002
+cd-ms-posting-mastercard,HTML,1,167
+cd-ms-posting-mastercard,Markdown,1,16
+cd-ms-posting-mastercard,total,880,64663
+cd-db-authorizer,SQL,43,917
+cd-db-authorizer,YAML,1,33
+cd-db-authorizer,Markdown,1,5
+cd-db-authorizer,total,45,955
+cad-ms-userprofile-bff,C#,61,2474
+cad-ms-userprofile-bff,MSBuild script,11,303
+cad-ms-userprofile-bff,YAML,8,258
+cad-ms-userprofile-bff,JSON,4,108
+cad-ms-userprofile-bff,XML,1,102
+cad-ms-userprofile-bff,Markdown,2,44
+cad-ms-userprofile-bff,Dockerfile,1,11
+cad-ms-userprofile-bff,total,88,3300
+config-repo-ocdev,YAML,133,9263
+config-repo-ocdev,total,133,9263
+qa-cards-authorizer-integrated-tests,C#,19,2844
+qa-cards-authorizer-integrated-tests,MSBuild script,1,22
+qa-cards-authorizer-integrated-tests,Markdown,1,16
+qa-cards-authorizer-integrated-tests,total,21,2882
+cc-va-sdks,Swift,30,1448
+cc-va-sdks,Kotlin,32,1145
+cc-va-sdks,XML,27,712
+cc-va-sdks,Markdown,6,285
+cc-va-sdks,Bourne Shell,2,242
+cc-va-sdks,JSON,7,164
+cc-va-sdks,Groovy,4,134
+cc-va-sdks,YAML,1,92
+cc-va-sdks,DOS Batch,1,59
+cc-va-sdks,C/C++ Header,2,26
+cc-va-sdks,Java,1,19
+cc-va-sdks,Prolog,1,18
+cc-va-sdks,Objective C,2,10
+cc-va-sdks,total,116,4354
+qa-automation-rest-api-vikingos,Markdown,1,16
+qa-automation-rest-api-vikingos,total,1,16
+do-tpl-pipeline,YAML,28,438
+do-tpl-pipeline,Markdown,1,9
+do-tpl-pipeline,total,29,447
+cd-ms-notification-facade,YAML,9,354
+cd-ms-notification-facade,C#,14,303
+cd-ms-notification-facade,JSON,4,75
+cd-ms-notification-facade,MSBuild script,3,43
+cd-ms-notification-facade,Markdown,1,16
+cd-ms-notification-facade,Dockerfile,1,9
+cd-ms-notification-facade,total,32,800
+cd-events-embossing,C#,24,457
+cd-events-embossing,YAML,2,101
+cd-events-embossing,MSBuild script,2,33
+cd-events-embossing,JSON,1,18
+cd-events-embossing,Markdown,1,6
+cd-events-embossing,total,30,615
+pa-qa-integration-product,JSON,5,113707
+pa-qa-integration-product,Markdown,1,16
+pa-qa-integration-product,total,6,113723
+pocs-serilog,C#,25,809
+pocs-serilog,JSON,6,124
+pocs-serilog,MSBuild script,7,105
+pocs-serilog,YAML,2,85
+pocs-serilog,total,40,1123
+ob-events-person-integration,C#,17,224
+ob-events-person-integration,YAML,2,81
+ob-events-person-integration,Markdown,1,16
+ob-events-person-integration,MSBuild script,1,9
+ob-events-person-integration,total,21,330
+pix-chave-reivindicacao-api,Markdown,1,16
+pix-chave-reivindicacao-api,total,1,16
+do-poc-sonarqube2,YAML,1,44
+do-poc-sonarqube2,C#,2,27
+do-poc-sonarqube2,MSBuild script,2,21
+do-poc-sonarqube2,Markdown,1,4
+do-poc-sonarqube2,total,6,96
+poc-superdigital-flutter,Dart,20,447
+poc-superdigital-flutter,JSON,3,168
+poc-superdigital-flutter,Groovy,3,81
+poc-superdigital-flutter,XML,6,60
+poc-superdigital-flutter,Markdown,3,29
+poc-superdigital-flutter,HTML,1,26
+poc-superdigital-flutter,YAML,1,22
+poc-superdigital-flutter,Swift,1,12
+poc-superdigital-flutter,Kotlin,1,4
+poc-superdigital-flutter,C/C++ Header,1,1
+poc-superdigital-flutter,total,40,850
+ob-ms-lp-bff,C#,190,6660
+ob-ms-lp-bff,YAML,9,237
+ob-ms-lp-bff,MSBuild script,6,118
+ob-ms-lp-bff,JSON,3,45
+ob-ms-lp-bff,Markdown,2,42
+ob-ms-lp-bff,Dockerfile,2,14
+ob-ms-lp-bff,DOS Batch,1,1
+ob-ms-lp-bff,total,213,7117
+bcc-qa-integration-associates,JSON,2,14168
+bcc-qa-integration-associates,Markdown,1,16
+bcc-qa-integration-associates,total,3,14184
+qa-supercartoes,Markdown,1,16
+qa-supercartoes,YAML,1,11
+qa-supercartoes,total,2,27
+cc-ob-api-definitions,YAML,12,5546
+cc-ob-api-definitions,Markdown,1,16
+cc-ob-api-definitions,total,13,5562
+trn-web-main,JavaScript,260,18698
+trn-web-main,TypeScript,203,16565
+trn-web-main,JSON,34,10654
+trn-web-main,Sass,144,8712
+trn-web-main,CSS,3,2344
+trn-web-main,YAML,11,342
+trn-web-main,JSX,5,228
+trn-web-main,Markdown,3,115
+trn-web-main,HTML,1,50
+trn-web-main,Dockerfile,1,7
+trn-web-main,total,665,57715
+do-grafana,YAML,34,1365
+do-grafana,Markdown,1,441
+do-grafana,JSON,1,1
+do-grafana,total,36,1807
+pa-ms-tax-manager,C#,425,416203
+pa-ms-tax-manager,Smalltalk,6,2968
+pa-ms-tax-manager,JSON,14,2051
+pa-ms-tax-manager,YAML,13,452
+pa-ms-tax-manager,MSBuild script,11,278
+pa-ms-tax-manager,liquid,3,215
+pa-ms-tax-manager,Markdown,2,40
+pa-ms-tax-manager,Dockerfile,2,20
+pa-ms-tax-manager,total,476,422227
+spring-boot-config,Markdown,1,16
+spring-boot-config,total,1,16
+projects.wiki,Markdown,2,2
+projects.wiki,total,2,2
+pro-superdigital-l-master,JSON,1,122
+pro-superdigital-l-master,total,1,122
+pa-qa-integration-operation,JSON,2,4270
+pa-qa-integration-operation,JavaScript,7,354
+pa-qa-integration-operation,YAML,4,103
+pa-qa-integration-operation,Markdown,1,6
+pa-qa-integration-operation,total,14,4733
+pix-spi-recebedor-receive-worker,Markdown,1,16
+pix-spi-recebedor-receive-worker,total,1,16
+arq-lib-common-hosting,C#,22,584
+arq-lib-common-hosting,MSBuild script,5,57
+arq-lib-common-hosting,YAML,2,49
+arq-lib-common-hosting,JSON,4,43
+arq-lib-common-hosting,total,33,733
+ob-ms-veridas,JSON,3,4772
+ob-ms-veridas,JavaScript,7,798
+ob-ms-veridas,YAML,8,283
+ob-ms-veridas,Markdown,1,38
+ob-ms-veridas,Dockerfile,1,11
+ob-ms-veridas,total,20,5902
+qa-automation-rest-api-avengers,JSON,2,5154
+qa-automation-rest-api-avengers,Markdown,1,16
+qa-automation-rest-api-avengers,total,3,5170
+do-py-scripts,Python,1,56
+do-py-scripts,Markdown,1,16
+do-py-scripts,total,2,72
+pa-ms-dormancy,Markdown,1,16
+pa-ms-dormancy,total,1,16
+arq-lib-common-swagger,C#,32,1003
+arq-lib-common-swagger,JSON,3,53
+arq-lib-common-swagger,YAML,2,49
+arq-lib-common-swagger,MSBuild script,2,27
+arq-lib-common-swagger,total,39,1132
+do-kaniko,Markdown,1,16
+do-kaniko,total,1,16
+api-cd-card-managment,Markdown,1,16
+api-cd-card-managment,total,1,16
+qa-tb-mexico-integrated-tests,Markdown,1,16
+qa-tb-mexico-integrated-tests,total,1,16
+cd-qa-integration-posting-chargeback,JSON,3,658
+cd-qa-integration-posting-chargeback,total,3,658
+transmit-security,YAML,37,1547
+transmit-security,Sass,3,815
+transmit-security,SQL,9,516
+transmit-security,Python,2,204
+transmit-security,JSON,3,118
+transmit-security,XML,2,104
+transmit-security,Markdown,2,94
+transmit-security,Dockerfile,3,69
+transmit-security,HTML,1,32
+transmit-security,Bourne Shell,1,28
+transmit-security,JavaScript,5,5
+transmit-security,CSS,1,1
+transmit-security,total,69,3533
+do-tf-azure-sql-databases,YAML,1,89
+do-tf-azure-sql-databases,Python,1,72
+do-tf-azure-sql-databases,Markdown,3,32
+do-tf-azure-sql-databases,JSON,1,3
+do-tf-azure-sql-databases,total,6,196
+saas-ms-account-management,Markdown,1,16
+saas-ms-account-management,total,1,16
+qa-azure-rest,Markdown,1,16
+qa-azure-rest,total,1,16
+pix-gestao-participantes-api,YAML,7,334
+pix-gestao-participantes-api,Markdown,1,16
+pix-gestao-participantes-api,Dockerfile,1,4
+pix-gestao-participantes-api,total,9,354
+cd-mfe-cards,TypeScript,80,5413
+cd-mfe-cards,JSON,11,2674
+cd-mfe-cards,Sass,23,798
+cd-mfe-cards,JavaScript,25,631
+cd-mfe-cards,YAML,11,341
+cd-mfe-cards,Dockerfile,1,7
+cd-mfe-cards,Markdown,1,1
+cd-mfe-cards,total,152,9865
+cd-poc-specflow,Markdown,1,16
+cd-poc-specflow,total,1,16
+ob-ms-camunda,C#,25,786
+ob-ms-camunda,YAML,8,209
+ob-ms-camunda,JSON,3,159
+ob-ms-camunda,MSBuild script,5,106
+ob-ms-camunda,Markdown,2,35
+ob-ms-camunda,Dockerfile,2,27
+ob-ms-camunda,XML,1,8
+ob-ms-camunda,total,46,1330
+saas-ms-transaction,Markdown,1,16
+saas-ms-transaction,total,1,16
+ob-events-FavoriteOtherBanks-integration,C#,7,103
+ob-events-FavoriteOtherBanks-integration,YAML,2,81
+ob-events-FavoriteOtherBanks-integration,Markdown,1,16
+ob-events-FavoriteOtherBanks-integration,MSBuild script,1,9
+ob-events-FavoriteOtherBanks-integration,total,11,209
+dba-sql-scripts,SQL,35,13054
+dba-sql-scripts,Markdown,1,16
+dba-sql-scripts,total,36,13070
+pix-chave-gestao-api,Markdown,1,16
+pix-chave-gestao-api,total,1,16
+bcc-events-ms-notifier,C#,9,140
+bcc-events-ms-notifier,YAML,2,61
+bcc-events-ms-notifier,Markdown,1,16
+bcc-events-ms-notifier,MSBuild script,1,14
+bcc-events-ms-notifier,total,13,231
+api-trn-operation,Markdown,1,16
+api-trn-operation,total,1,16
+crd-ms-loan,C#,129,6891
+crd-ms-loan,MSBuild script,15,310
+crd-ms-loan,YAML,10,295
+crd-ms-loan,JSON,8,235
+crd-ms-loan,Markdown,2,36
+crd-ms-loan,Dockerfile,1,10
+crd-ms-loan,total,165,7777
+doc,Markdown,1,16
+doc,total,1,16
+mbr-cd-events,C#,11,246
+mbr-cd-events,YAML,2,81
+mbr-cd-events,MSBuild script,2,31
+mbr-cd-events,Markdown,1,16
+mbr-cd-events,total,16,374
+trn-db-integration-spb,SQL,3,2044
+trn-db-integration-spb,YAML,2,49
+trn-db-integration-spb,Markdown,1,16
+trn-db-integration-spb,total,6,2109
+pa-client-transaction-broker,C#,5,102
+pa-client-transaction-broker,YAML,2,69
+pa-client-transaction-broker,MSBuild script,2,40
+pa-client-transaction-broker,Markdown,1,17
+pa-client-transaction-broker,total,10,228
+qa-automation-rest-api-pampas,Markdown,1,16
+qa-automation-rest-api-pampas,total,1,16
+arq-sonarqube,YAML,6,200
+arq-sonarqube,Markdown,1,16
+arq-sonarqube,total,7,216
+cd-jobs,C#,29,535
+cd-jobs,YAML,10,331
+cd-jobs,MSBuild script,6,93
+cd-jobs,JSON,5,82
+cd-jobs,Markdown,1,16
+cd-jobs,total,51,1057
+cd-ms-cards-management,C#,206,8738
+cd-ms-cards-management,Smalltalk,2,699
+cd-ms-cards-management,YAML,10,328
+cd-ms-cards-management,JSON,5,253
+cd-ms-cards-management,MSBuild script,9,148
+cd-ms-cards-management,Markdown,1,16
+cd-ms-cards-management,Dockerfile,1,9
+cd-ms-cards-management,total,234,10191
+qa-automation-quantum-pa-ms-operation,C#,8,275
+qa-automation-quantum-pa-ms-operation,MSBuild script,1,30
+qa-automation-quantum-pa-ms-operation,Markdown,1,16
+qa-automation-quantum-pa-ms-operation,JSON,1,15
+qa-automation-quantum-pa-ms-operation,total,11,336
+ccoe-td-topaz,CSS,1,826
+ccoe-td-topaz,Markdown,12,210
+ccoe-td-topaz,total,13,1036
+ob-ms-idwall,C#,67,2066
+ob-ms-idwall,YAML,8,274
+ob-ms-idwall,MSBuild script,6,134
+ob-ms-idwall,JSON,4,59
+ob-ms-idwall,Markdown,2,42
+ob-ms-idwall,Dockerfile,1,11
+ob-ms-idwall,total,88,2586
+zeebe-operate-helm,YAML,9,211
+zeebe-operate-helm,make,1,34
+zeebe-operate-helm,Markdown,1,25
+zeebe-operate-helm,total,11,270
+onboarding-pod-ios,Swift,251,18540
+onboarding-pod-ios,C/C++ Header,57,4515
+onboarding-pod-ios,JSON,96,2168
+onboarding-pod-ios,YAML,1,54
+onboarding-pod-ios,Markdown,1,18
+onboarding-pod-ios,total,406,25295
+pa-events-operations,YAML,2,80
+pa-events-operations,C#,6,74
+pa-events-operations,MSBuild script,1,18
+pa-events-operations,Markdown,1,1
+pa-events-operations,total,10,173
+qa-quantum-integrated-tests,C#,10,572
+qa-quantum-integrated-tests,MSBuild script,1,23
+qa-quantum-integrated-tests,Markdown,1,16
+qa-quantum-integrated-tests,JSON,1,15
+qa-quantum-integrated-tests,total,13,626
+do-ansible-mongodb,YAML,4,52
+do-ansible-mongodb,Markdown,1,16
+do-ansible-mongodb,Bourne Shell,1,12
+do-ansible-mongodb,Python,1,10
+do-ansible-mongodb,total,7,90
+api-NOUSAR-openapi-config-v1,Markdown,1,16
+api-NOUSAR-openapi-config-v1,total,1,16
+ob-ms-prospect-email-validation,C#,42,1287
+ob-ms-prospect-email-validation,YAML,8,255
+ob-ms-prospect-email-validation,JSON,6,183
+ob-ms-prospect-email-validation,MSBuild script,7,136
+ob-ms-prospect-email-validation,Dockerfile,2,28
+ob-ms-prospect-email-validation,Markdown,1,16
+ob-ms-prospect-email-validation,total,66,1905
+ux-lib-superdigital,Markdown,1,17
+ux-lib-superdigital,total,1,17
+template-dotnet,C#,59,1523
+template-dotnet,YAML,10,239
+template-dotnet,MSBuild script,11,215
+template-dotnet,JSON,6,121
+template-dotnet,Markdown,2,42
+template-dotnet,Dockerfile,1,11
+template-dotnet,total,89,2151
+cc-transmit-sdks,HTML,407,52791
+cc-transmit-sdks,JavaScript,88,3157
+cc-transmit-sdks,CSS,6,2922
+cc-transmit-sdks,Kotlin,33,2613
+cc-transmit-sdks,XML,60,2397
+cc-transmit-sdks,Java,15,1549
+cc-transmit-sdks,C/C++ Header,17,1293
+cc-transmit-sdks,Groovy,7,313
+cc-transmit-sdks,Maven,9,233
+cc-transmit-sdks,JSON,3,160
+cc-transmit-sdks,Bourne Shell,1,129
+cc-transmit-sdks,Prolog,2,60
+cc-transmit-sdks,DOS Batch,1,59
+cc-transmit-sdks,total,649,67676
+ob-ms-files-manager,C#,42,1529
+ob-ms-files-manager,YAML,9,271
+ob-ms-files-manager,MSBuild script,5,97
+ob-ms-files-manager,Markdown,2,52
+ob-ms-files-manager,JSON,3,44
+ob-ms-files-manager,Dockerfile,1,11
+ob-ms-files-manager,total,62,2004
+pocs-globalplatform-dotnet,JSON,22,15993
+pocs-globalplatform-dotnet,C#,64,2011
+pocs-globalplatform-dotnet,Sass,14,583
+pocs-globalplatform-dotnet,JSX,16,509
+pocs-globalplatform-dotnet,Dockerfile,10,170
+pocs-globalplatform-dotnet,MSBuild script,15,157
+pocs-globalplatform-dotnet,CSS,2,147
+pocs-globalplatform-dotnet,YAML,4,127
+pocs-globalplatform-dotnet,Markdown,2,53
+pocs-globalplatform-dotnet,JavaScript,3,50
+pocs-globalplatform-dotnet,TOML,1,33
+pocs-globalplatform-dotnet,HTML,1,28
+pocs-globalplatform-dotnet,total,154,19861
+cd-sftp-server,YAML,8,319
+cd-sftp-server,Markdown,1,57
+cd-sftp-server,total,9,376
+pix-spi-api,Markdown,1,16
+pix-spi-api,total,1,16
+ccoe-td-cpqd,Markdown,1,16
+ccoe-td-cpqd,total,1,16
+qa-test-web,Java,44,2417
+qa-test-web,Markdown,6,302
+qa-test-web,Maven,1,100
+qa-test-web,XML,5,45
+qa-test-web,total,56,2864
+pa-events-transactions,C#,69,1107
+pa-events-transactions,YAML,2,70
+pa-events-transactions,MSBuild script,1,14
+pa-events-transactions,Markdown,1,1
+pa-events-transactions,total,73,1192
+test-vmazzi,YAML,1,26
+test-vmazzi,Markdown,1,16
+test-vmazzi,Dockerfile,1,5
+test-vmazzi,HTML,1,1
+test-vmazzi,total,4,48
+qa-tb-argentina-integrated-tests,C#,10,420
+qa-tb-argentina-integrated-tests,MSBuild script,1,17
+qa-tb-argentina-integrated-tests,Markdown,1,16
+qa-tb-argentina-integrated-tests,total,12,453
+cc-ui-design,Markdown,1,16
+cc-ui-design,total,1,16
+ob-ms-terms,C#,43,1695
+ob-ms-terms,Smalltalk,4,270
+ob-ms-terms,YAML,8,252
+ob-ms-terms,MSBuild script,6,134
+ob-ms-terms,XML,1,96
+ob-ms-terms,JSON,5,78
+ob-ms-terms,Markdown,1,16
+ob-ms-terms,Dockerfile,1,11
+ob-ms-terms,total,69,2552
+design-system-component-android,XML,71,8109
+design-system-component-android,Kotlin,47,3888
+design-system-component-android,Groovy,4,167
+design-system-component-android,Bourne Shell,1,129
+design-system-component-android,DOS Batch,1,59
+design-system-component-android,YAML,1,50
+design-system-component-android,Prolog,1,18
+design-system-component-android,Markdown,1,17
+design-system-component-android,total,127,12437
+trn-ms-plan,C#,128,9678
+trn-ms-plan,Smalltalk,4,693
+trn-ms-plan,YAML,9,246
+trn-ms-plan,MSBuild script,7,200
+trn-ms-plan,JSON,4,117
+trn-ms-plan,Markdown,2,53
+trn-ms-plan,XML,1,30
+trn-ms-plan,Dockerfile,2,28
+trn-ms-plan,total,157,11045
+design-system-component-web,Sass,33,3747
+design-system-component-web,TypeScript,36,2373
+design-system-component-web,HTML,31,2095
+design-system-component-web,Markdown,23,670
+design-system-component-web,JSON,7,205
+design-system-component-web,YAML,1,94
+design-system-component-web,CSS,2,45
+design-system-component-web,JavaScript,1,18
+design-system-component-web,Bourne Shell,1,8
+design-system-component-web,total,135,9255
+arq-lib-common-hangfire,C#,14,369
+arq-lib-common-hangfire,JSON,5,81
+arq-lib-common-hangfire,MSBuild script,6,73
+arq-lib-common-hangfire,YAML,2,50
+arq-lib-common-hangfire,Markdown,1,16
+arq-lib-common-hangfire,total,28,589
+qa-automation-pampas-pa-ms-operation,Markdown,1,16
+qa-automation-pampas-pa-ms-operation,total,1,16
+do-ms-example,C#,56,1437
+do-ms-example,YAML,9,200
+do-ms-example,MSBuild script,10,187
+do-ms-example,JSON,6,138
+do-ms-example,Markdown,2,42
+do-ms-example,Dockerfile,1,10
+do-ms-example,total,84,2014
+trn-api-definitions,YAML,7,4073
+trn-api-definitions,JSON,3,3684
+trn-api-definitions,Markdown,1,16
+trn-api-definitions,total,11,7773
+cd-qa-lake,C#,41,1304
+cd-qa-lake,YAML,10,343
+cd-qa-lake,JSON,4,87
+cd-qa-lake,MSBuild script,4,68
+cd-qa-lake,Markdown,1,13
+cd-qa-lake,Dockerfile,1,9
+cd-qa-lake,total,61,1824
+ob-ms-ani,C#,40,1356
+ob-ms-ani,YAML,10,313
+ob-ms-ani,JSON,4,143
+ob-ms-ani,MSBuild script,5,102
+ob-ms-ani,Dockerfile,2,28
+ob-ms-ani,Markdown,1,16
+ob-ms-ani,total,62,1958
+ob-ms-account-integration-collector-old,JSON,44,126075
+ob-ms-account-integration-collector-old,C#,74,1443
+ob-ms-account-integration-collector-old,YAML,9,262
+ob-ms-account-integration-collector-old,MSBuild script,8,168
+ob-ms-account-integration-collector-old,XML,9,65
+ob-ms-account-integration-collector-old,Markdown,1,16
+ob-ms-account-integration-collector-old,Dockerfile,1,11
+ob-ms-account-integration-collector-old,total,146,128040
+api-edge-config,Markdown,1,16
+api-edge-config,total,1,16
+ob-ms-renaper,C#,49,1803
+ob-ms-renaper,YAML,9,267
+ob-ms-renaper,MSBuild script,5,94
+ob-ms-renaper,JSON,3,81
+ob-ms-renaper,Dockerfile,2,28
+ob-ms-renaper,Markdown,1,16
+ob-ms-renaper,total,69,2289
+qa-automation-transactions,C#,25,1029
+qa-automation-transactions,JSON,4,466
+qa-automation-transactions,YAML,1,60
+qa-automation-transactions,MSBuild script,2,49
+qa-automation-transactions,Cucumber,2,30
+qa-automation-transactions,Markdown,1,16
+qa-automation-transactions,total,35,1650
+san-auth-android,Java,63,2938
+san-auth-android,Markdown,1,287
+san-auth-android,Maven,10,250
+san-auth-android,Groovy,4,221
+san-auth-android,Bourne Shell,1,129
+san-auth-android,XML,11,112
+san-auth-android,DOS Batch,1,59
+san-auth-android,Prolog,1,18
+san-auth-android,JSON,1,16
+san-auth-android,total,93,4030
+qa-automation-rest-api-cards-embossing,JSON,4,46405
+qa-automation-rest-api-cards-embossing,Markdown,1,16
+qa-automation-rest-api-cards-embossing,total,5,46421
+arq-lib-common-appinsights,C#,15,394
+arq-lib-common-appinsights,JSON,6,109
+arq-lib-common-appinsights,MSBuild script,4,54
+arq-lib-common-appinsights,YAML,2,48
+arq-lib-common-appinsights,Markdown,1,39
+arq-lib-common-appinsights,total,28,644
+pm-client-ms-acquiring-MIT,Markdown,1,16
+pm-client-ms-acquiring-MIT,total,1,16
+android-components,Markdown,1,1
+android-components,total,1,1
+do-helm-jaeger,YAML,12,409
+do-helm-jaeger,Markdown,1,89
+do-helm-jaeger,total,13,498
+qa-test-mobile-android,Java,14,442
+qa-test-mobile-android,Markdown,7,324
+qa-test-mobile-android,Maven,1,93
+qa-test-mobile-android,XML,1,28
+qa-test-mobile-android,Bourne Shell,1,7
+qa-test-mobile-android,DOS Batch,1,4
+qa-test-mobile-android,total,25,898
+bcc-gp-events-ms-payments,C#,31,360
+bcc-gp-events-ms-payments,YAML,2,48
+bcc-gp-events-ms-payments,MSBuild script,1,17
+bcc-gp-events-ms-payments,Markdown,1,16
+bcc-gp-events-ms-payments,total,35,441
+cd-ms-posting-sync,C#,17,418
+cd-ms-posting-sync,YAML,6,217
+cd-ms-posting-sync,JSON,3,116
+cd-ms-posting-sync,MSBuild script,2,34
+cd-ms-posting-sync,Markdown,1,16
+cd-ms-posting-sync,Dockerfile,1,9
+cd-ms-posting-sync,total,30,810
+pm-ms-acquiring,C#,105,3350
+pm-ms-acquiring,JSON,17,2142
+pm-ms-acquiring,YAML,10,329
+pm-ms-acquiring,MSBuild script,9,279
+pm-ms-acquiring,Markdown,1,16
+pm-ms-acquiring,Dockerfile,1,9
+pm-ms-acquiring,SQL,1,2
+pm-ms-acquiring,total,144,6127
+trn-svc-cash,XML,30,2045
+trn-svc-cash,Maven,5,272
+trn-svc-cash,Bourne Shell,2,217
+trn-svc-cash,DOS Batch,2,148
+trn-svc-cash,SQL,2,81
+trn-svc-cash,Java,2,80
+trn-svc-cash,YAML,1,53
+trn-svc-cash,total,44,2896
+arq-lib-distributed-cache,C#,11,738
+arq-lib-distributed-cache,YAML,2,99
+arq-lib-distributed-cache,MSBuild script,5,94
+arq-lib-distributed-cache,Markdown,1,16
+arq-lib-distributed-cache,JSON,1,5
+arq-lib-distributed-cache,total,20,952
+trn-ms-pix,C#,190,5614
+trn-ms-pix,YAML,8,248
+trn-ms-pix,MSBuild script,8,124
+trn-ms-pix,JSON,3,109
+trn-ms-pix,Markdown,2,30
+trn-ms-pix,Dockerfile,1,11
+trn-ms-pix,total,212,6136
+cd-events-posting,C#,18,719
+cd-events-posting,YAML,2,101
+cd-events-posting,MSBuild script,2,30
+cd-events-posting,JSON,1,18
+cd-events-posting,Markdown,1,6
+cd-events-posting,total,24,874
+ob-ms-emailage-integration-collector,C#,34,886
+ob-ms-emailage-integration-collector,JSON,4,502
+ob-ms-emailage-integration-collector,YAML,9,262
+ob-ms-emailage-integration-collector,MSBuild script,8,163
+ob-ms-emailage-integration-collector,Markdown,1,16
+ob-ms-emailage-integration-collector,Dockerfile,1,11
+ob-ms-emailage-integration-collector,total,57,1840
+do-tf-databricks,YAML,1,59
+do-tf-databricks,total,1,59
+trn-client-channels-storage,C#,11,289
+trn-client-channels-storage,XML,1,133
+trn-client-channels-storage,YAML,2,85
+trn-client-channels-storage,MSBuild script,2,43
+trn-client-channels-storage,Markdown,1,16
+trn-client-channels-storage,total,17,566
+pa-api-definitions,YAML,19,37235
+pa-api-definitions,Markdown,1,71
+pa-api-definitions,JSON,1,3
+pa-api-definitions,total,21,37309
+cards-ios,Swift,85,5496
+cards-ios,JSON,63,1460
+cards-ios,Markdown,1,18
+cards-ios,total,149,6974
+sdbrasil-ms-modelo,C#,39,936
+sdbrasil-ms-modelo,MSBuild script,7,136
+sdbrasil-ms-modelo,Markdown,1,57
+sdbrasil-ms-modelo,Dockerfile,1,16
+sdbrasil-ms-modelo,JSON,2,12
+sdbrasil-ms-modelo,total,50,1157
+trn-ms-cards,C#,77,3112
+trn-ms-cards,MSBuild script,11,242
+trn-ms-cards,YAML,8,218
+trn-ms-cards,JSON,4,154
+trn-ms-cards,Markdown,2,42
+trn-ms-cards,Dockerfile,1,11
+trn-ms-cards,total,103,3779
+qa-automation-rest-api,JSON,4,6618
+qa-automation-rest-api,Markdown,1,16
+qa-automation-rest-api,YAML,1,14
+qa-automation-rest-api,total,6,6648
+crm-ocp-dev,YAML,88,5782
+crm-ocp-dev,Markdown,1,16
+crm-ocp-dev,total,89,5798
+kafka-listener,Java,48,1147
+kafka-listener,YAML,4,232
+kafka-listener,Bourne Shell,1,126
+kafka-listener,DOS Batch,1,66
+kafka-listener,Groovy,2,44
+kafka-listener,Dockerfile,1,17
+kafka-listener,Markdown,1,16
+kafka-listener,total,58,1648
+frontend.wiki,Markdown,34,850
+frontend.wiki,total,34,850
+do-poc-react,JSON,2,65
+do-poc-react,YAML,1,45
+do-poc-react,JavaScript,4,39
+do-poc-react,Markdown,1,16
+do-poc-react,CSS,1,9
+do-poc-react,HTML,1,4
+do-poc-react,total,10,178
+bcc-qa-automation,Python,48,1478
+bcc-qa-automation,Bourne Shell,6,253
+bcc-qa-automation,SQL,2,64
+bcc-qa-automation,JSON,4,28
+bcc-qa-automation,XML,4,24
+bcc-qa-automation,Markdown,1,16
+bcc-qa-automation,total,65,1863
+pix-chave-gestao-worker,Markdown,1,16
+pix-chave-gestao-worker,total,1,16
+api-cd-transaction-history,Markdown,1,16
+api-cd-transaction-history,total,1,16
+cd-ms-configuration,C#,98,2012
+cd-ms-configuration,YAML,13,592
+cd-ms-configuration,JSON,12,186
+cd-ms-configuration,MSBuild script,6,84
+cd-ms-configuration,Dockerfile,2,18
+cd-ms-configuration,Markdown,1,16
+cd-ms-configuration,total,132,2908
+ob-ms-account-integration-collector,Markdown,1,16
+ob-ms-account-integration-collector,total,1,16
+cc-web-core,JavaScript,87,4818
+cc-web-core,JSX,15,1481
+cc-web-core,TypeScript,13,1380
+cc-web-core,JSON,18,1136
+cc-web-core,YAML,23,828
+cc-web-core,Markdown,2,43
+cc-web-core,HTML,1,20
+cc-web-core,Dockerfile,1,7
+cc-web-core,total,160,9713
+cad-ms-notification-sender,C#,63,2477
+cad-ms-notification-sender,MSBuild script,11,270
+cad-ms-notification-sender,YAML,9,270
+cad-ms-notification-sender,JSON,4,108
+cad-ms-notification-sender,Markdown,2,44
+cad-ms-notification-sender,Dockerfile,1,11
+cad-ms-notification-sender,total,90,3180
+cad-ms-consent,C#,80,3020
+cad-ms-consent,MSBuild script,11,300
+cad-ms-consent,YAML,8,257
+cad-ms-consent,JSON,4,103
+cad-ms-consent,Markdown,2,44
+cad-ms-consent,Dockerfile,1,11
+cad-ms-consent,total,106,3735
+pix-qrc-api,Markdown,1,16
+pix-qrc-api,total,1,16
+cd-ms-posting-integration-mastercard,SQL,50,5421
+cd-ms-posting-integration-mastercard,C#,80,3836
+cd-ms-posting-integration-mastercard,Smalltalk,4,1448
+cd-ms-posting-integration-mastercard,YAML,13,504
+cd-ms-posting-integration-mastercard,MSBuild script,11,200
+cd-ms-posting-integration-mastercard,JSON,8,141
+cd-ms-posting-integration-mastercard,Dockerfile,3,35
+cd-ms-posting-integration-mastercard,Markdown,1,16
+cd-ms-posting-integration-mastercard,total,170,11601
+tb-api-adaptor-pts,YAML,2,830
+tb-api-adaptor-pts,total,2,830
+trn-ms-person,Markdown,1,16
+trn-ms-person,total,1,16
+ob-lib-dmn,Markdown,1,16
+ob-lib-dmn,total,1,16
+ssd.puppet.proxy,Puppet,1,96
+ssd.puppet.proxy,Bourne Shell,1,4
+ssd.puppet.proxy,total,2,100
+cad-ms-push-notification,C#,46,1610
+cad-ms-push-notification,YAML,9,271
+cad-ms-push-notification,MSBuild script,11,246
+cad-ms-push-notification,JSON,4,115
+cad-ms-push-notification,Markdown,2,44
+cad-ms-push-notification,Dockerfile,1,22
+cad-ms-push-notification,total,73,2308
+design-system-component-ios,HTML,44,15187
+design-system-component-ios,Swift,85,5395
+design-system-component-ios,JavaScript,5,1807
+design-system-component-ios,JSON,1125,1530
+design-system-component-ios,CSS,2,514
+design-system-component-ios,YAML,2,77
+design-system-component-ios,Bourne Shell,4,74
+design-system-component-ios,Markdown,1,51
+design-system-component-ios,make,2,44
+design-system-component-ios,C/C++ Header,1,3
+design-system-component-ios,total,1271,24682
+pa-ms-organizational-structure,Smalltalk,54,32552
+pa-ms-organizational-structure,C#,303,31134
+pa-ms-organizational-structure,JSON,10,462
+pa-ms-organizational-structure,YAML,10,347
+pa-ms-organizational-structure,MSBuild script,9,288
+pa-ms-organizational-structure,Markdown,1,19
+pa-ms-organizational-structure,Dockerfile,1,9
+pa-ms-organizational-structure,DOS Batch,1,1
+pa-ms-organizational-structure,total,389,64812
+cd-events-authorizer,C#,12,190
+cd-events-authorizer,YAML,2,101
+cd-events-authorizer,JSON,1,18
+cd-events-authorizer,MSBuild script,1,16
+cd-events-authorizer,Markdown,1,15
+cd-events-authorizer,total,17,340
+cc-transmit-demos,CSS,3,3149
+cc-transmit-demos,C/C++ Header,19,1297
+cc-transmit-demos,TypeScript,1,908
+cc-transmit-demos,Swift,22,648
+cc-transmit-demos,XML,21,621
+cc-transmit-demos,Java,14,545
+cc-transmit-demos,Kotlin,13,461
+cc-transmit-demos,JavaScript,7,257
+cc-transmit-demos,Maven,5,197
+cc-transmit-demos,JSON,3,180
+cc-transmit-demos,Markdown,2,145
+cc-transmit-demos,Bourne Shell,1,129
+cc-transmit-demos,Groovy,4,96
+cc-transmit-demos,HTML,1,95
+cc-transmit-demos,DOS Batch,1,59
+cc-transmit-demos,Prolog,1,18
+cc-transmit-demos,total,118,8805
+trn-svc-config-pts-ar,XML,51,8300
+trn-svc-config-pts-ar,SQL,39,2840
+trn-svc-config-pts-ar,Maven,5,272
+trn-svc-config-pts-ar,Bourne Shell,2,217
+trn-svc-config-pts-ar,DOS Batch,2,148
+trn-svc-config-pts-ar,Java,2,80
+trn-svc-config-pts-ar,YAML,2,78
+trn-svc-config-pts-ar,Markdown,1,2
+trn-svc-config-pts-ar,total,104,11937
+sdi.az.virtualmachine-s3,YAML,1,43
+sdi.az.virtualmachine-s3,total,1,43
+api-NOUSAR-hellosd-v1,Markdown,1,16
+api-NOUSAR-hellosd-v1,total,1,16
+cd-ms-jpos-mastercard,YAML,45,3069
+cd-ms-jpos-mastercard,Java,12,910
+cd-ms-jpos-mastercard,XML,13,575
+cd-ms-jpos-mastercard,Maven,1,196
+cd-ms-jpos-mastercard,Markdown,1,68
+cd-ms-jpos-mastercard,DTD,1,23
+cd-ms-jpos-mastercard,SQL,1,12
+cd-ms-jpos-mastercard,Dockerfile,1,12
+cd-ms-jpos-mastercard,total,75,4865
+arq-lib-common-authorization,C#,23,897
+arq-lib-common-authorization,JSON,4,84
+arq-lib-common-authorization,YAML,3,58
+arq-lib-common-authorization,MSBuild script,4,49
+arq-lib-common-authorization,total,34,1088
+api-pa-lock-document,Markdown,1,16
+api-pa-lock-document,total,1,16
+ob-ms-FavoriteTransferBetweenSuper-Integration-collector,C#,36,998
+ob-ms-FavoriteTransferBetweenSuper-Integration-collector,JSON,3,471
+ob-ms-FavoriteTransferBetweenSuper-Integration-collector,MSBuild script,5,64
+ob-ms-FavoriteTransferBetweenSuper-Integration-collector,Markdown,1,16
+ob-ms-FavoriteTransferBetweenSuper-Integration-collector,total,45,1549
+sd-brasil-token,C#,98,4080
+sd-brasil-token,XSD,1,3168
+sd-brasil-token,MSBuild script,5,630
+sd-brasil-token,DOS Batch,1,26
+sd-brasil-token,total,105,7904
+trn-svc-config-pts-pe,XML,7,634
+trn-svc-config-pts-pe,Maven,5,314
+trn-svc-config-pts-pe,Bourne Shell,2,217
+trn-svc-config-pts-pe,DOS Batch,2,148
+trn-svc-config-pts-pe,Java,2,80
+trn-svc-config-pts-pe,YAML,1,39
+trn-svc-config-pts-pe,SQL,1,1
+trn-svc-config-pts-pe,total,20,1433
+cd-ms-authorizer-single-message,C#,86,4239
+cd-ms-authorizer-single-message,YAML,9,337
+cd-ms-authorizer-single-message,JSON,5,237
+cd-ms-authorizer-single-message,MSBuild script,6,94
+cd-ms-authorizer-single-message,Smalltalk,1,47
+cd-ms-authorizer-single-message,Markdown,1,16
+cd-ms-authorizer-single-message,Dockerfile,1,9
+cd-ms-authorizer-single-message,total,109,4979
+api-NOUSAR-openapi-operation,Markdown,1,16
+api-NOUSAR-openapi-operation,total,1,16
+do-ping,YAML,3,72
+do-ping,Markdown,1,16
+do-ping,Dockerfile,1,4
+do-ping,total,5,92
+do-harbor-ocp,YAML,2,54
+do-harbor-ocp,INI,3,37
+do-harbor-ocp,Dockerfile,2,36
+do-harbor-ocp,JSON,1,25
+do-harbor-ocp,JavaScript,1,24
+do-harbor-ocp,Markdown,1,2
+do-harbor-ocp,total,10,178
+trn-ms-operation,C#,222,16285
+trn-ms-operation,YAML,9,263
+trn-ms-operation,Smalltalk,3,218
+trn-ms-operation,JSON,6,217
+trn-ms-operation,MSBuild script,6,128
+trn-ms-operation,Markdown,2,53
+trn-ms-operation,Dockerfile,1,11
+trn-ms-operation,total,249,17175
+topaz-db-amlsupla_int,SQL,2,621
+topaz-db-amlsupla_int,YAML,1,33
+topaz-db-amlsupla_int,Markdown,1,16
+topaz-db-amlsupla_int,total,4,670
+do-poc-dev3,JSON,2,1390
+do-poc-dev3,YAML,1,46
+do-poc-dev3,C#,2,23
+do-poc-dev3,MSBuild script,2,18
+do-poc-dev3,Markdown,1,16
+do-poc-dev3,total,8,1493
+bcc-gp-events-ms-payslips,C#,19,248
+bcc-gp-events-ms-payslips,YAML,1,45
+bcc-gp-events-ms-payslips,Markdown,1,16
+bcc-gp-events-ms-payslips,MSBuild script,1,16
+bcc-gp-events-ms-payslips,total,22,325
+sdd.az.modules.azure-sql-databases-non-pool,Markdown,1,16
+sdd.az.modules.azure-sql-databases-non-pool,total,1,16
+bcc-ms-transport,C#,116,10512
+bcc-ms-transport,Smalltalk,3,746
+bcc-ms-transport,MSBuild script,12,389
+bcc-ms-transport,JSON,5,336
+bcc-ms-transport,YAML,8,265
+bcc-ms-transport,XML,1,141
+bcc-ms-transport,Protocol Buffers,1,47
+bcc-ms-transport,Razor,1,42
+bcc-ms-transport,CSS,1,25
+bcc-ms-transport,Markdown,1,16
+bcc-ms-transport,HTML,1,14
+bcc-ms-transport,Dockerfile,1,11
+bcc-ms-transport,total,151,12544
+pa-client-ms-garnishment,C#,9,141
+pa-client-ms-garnishment,YAML,3,139
+pa-client-ms-garnishment,Markdown,1,16
+pa-client-ms-garnishment,MSBuild script,1,16
+pa-client-ms-garnishment,total,14,312
+pix-bacen-envio-worker,Markdown,1,16
+pix-bacen-envio-worker,total,1,16
+trn-svc-adaptor-pts-pix,JSON,36,3861
+trn-svc-adaptor-pts-pix,XML,19,1083
+trn-svc-adaptor-pts-pix,YAML,10,532
+trn-svc-adaptor-pts-pix,Bourne Shell,2,78
+trn-svc-adaptor-pts-pix,Groovy,3,76
+trn-svc-adaptor-pts-pix,Dockerfile,1,29
+trn-svc-adaptor-pts-pix,Markdown,1,17
+trn-svc-adaptor-pts-pix,INI,1,3
+trn-svc-adaptor-pts-pix,total,73,5679
+pa-cronjobs,YAML,5,218
+pa-cronjobs,Markdown,2,104
+pa-cronjobs,total,7,322
+api-NOUSAR-openapi-person,Markdown,1,16
+api-NOUSAR-openapi-person,total,1,16
+cad-ms-personal-data,C#,122,3579
+cad-ms-personal-data,YAML,8,314
+cad-ms-personal-data,MSBuild script,11,241
+cad-ms-personal-data,JSON,4,98
+cad-ms-personal-data,Markdown,2,42
+cad-ms-personal-data,Dockerfile,2,21
+cad-ms-personal-data,total,149,4295
+bi-regulatory-reporting,Markdown,1,16
+bi-regulatory-reporting,total,1,16
+pa-ms-operation-types,C#,90,4369
+pa-ms-operation-types,Smalltalk,3,1274
+pa-ms-operation-types,YAML,7,227
+pa-ms-operation-types,MSBuild script,6,125
+pa-ms-operation-types,JSON,5,104
+pa-ms-operation-types,Markdown,2,35
+pa-ms-operation-types,Dockerfile,1,10
+pa-ms-operation-types,total,114,6144
+cassandra-migrate,Python,9,755
+cassandra-migrate,YAML,1,18
+cassandra-migrate,INI,1,14
+cassandra-migrate,Bourne Shell,1,6
+cassandra-migrate,total,12,793
+ob-events-FavoriteMobileRecharge-integration,C#,7,177
+ob-events-FavoriteMobileRecharge-integration,YAML,2,81
+ob-events-FavoriteMobileRecharge-integration,Markdown,1,16
+ob-events-FavoriteMobileRecharge-integration,MSBuild script,1,9
+ob-events-FavoriteMobileRecharge-integration,total,11,283
+cad-ms-email-notification,C#,45,1926
+cad-ms-email-notification,YAML,9,271
+cad-ms-email-notification,MSBuild script,11,240
+cad-ms-email-notification,JSON,4,110
+cad-ms-email-notification,Markdown,2,44
+cad-ms-email-notification,Dockerfile,1,22
+cad-ms-email-notification,total,72,2613
+trn-svc-diagnostic-pts,Maven,3,886
+trn-svc-diagnostic-pts,YAML,8,415
+trn-svc-diagnostic-pts,Markdown,4,300
+trn-svc-diagnostic-pts,Bourne Shell,2,257
+trn-svc-diagnostic-pts,Python,1,185
+trn-svc-diagnostic-pts,INI,11,155
+trn-svc-diagnostic-pts,DOS Batch,1,147
+trn-svc-diagnostic-pts,XML,7,140
+trn-svc-diagnostic-pts,Java,1,76
+trn-svc-diagnostic-pts,JSON,2,44
+trn-svc-diagnostic-pts,Dockerfile,1,34
+trn-svc-diagnostic-pts,total,41,2639
+api-pa-transaction,Markdown,1,16
+api-pa-transaction,total,1,16
+qa-automation-rest-api-ninjas,Markdown,1,16
+qa-automation-rest-api-ninjas,total,1,16
+do-prometheus-node-exporter,YAML,11,422
+do-prometheus-node-exporter,Markdown,2,57
+do-prometheus-node-exporter,total,13,479
+do-helm-ovpn,YAML,8,520
+do-helm-ovpn,Markdown,1,167
+do-helm-ovpn,total,9,687
+devops-cd,Markdown,1,16
+devops-cd,total,1,16
+cad-ms-sms-notification,C#,45,1713
+cad-ms-sms-notification,YAML,9,270
+cad-ms-sms-notification,MSBuild script,11,246
+cad-ms-sms-notification,JSON,4,113
+cad-ms-sms-notification,Markdown,2,44
+cad-ms-sms-notification,Dockerfile,1,22
+cad-ms-sms-notification,total,72,2408
+pix-bacen-recebimento-worker,Markdown,1,16
+pix-bacen-recebimento-worker,total,1,16
+pa-client-ms-person,C#,31,1020
+pa-client-ms-person,YAML,2,69
+pa-client-ms-person,XML,1,60
+pa-client-ms-person,MSBuild script,2,41
+pa-client-ms-person,Markdown,1,16
+pa-client-ms-person,total,37,1206
+bcc-gp-ms-payslips,C#,120,4549
+bcc-gp-ms-payslips,JSON,5,319
+bcc-gp-ms-payslips,MSBuild script,11,270
+bcc-gp-ms-payslips,YAML,10,239
+bcc-gp-ms-payslips,Smalltalk,5,210
+bcc-gp-ms-payslips,Markdown,2,35
+bcc-gp-ms-payslips,Dockerfile,1,11
+bcc-gp-ms-payslips,total,154,5633
+trn-ms-integration-spb,C#,197,7479
+trn-ms-integration-spb,JSON,9,578
+trn-ms-integration-spb,YAML,10,309
+trn-ms-integration-spb,MSBuild script,8,228
+trn-ms-integration-spb,Markdown,2,35
+trn-ms-integration-spb,Dockerfile,1,11
+trn-ms-integration-spb,total,227,8640
+arq-lib-mediatr,C#,15,411
+arq-lib-mediatr,YAML,2,49
+arq-lib-mediatr,JSON,3,49
+arq-lib-mediatr,Markdown,1,38
+arq-lib-mediatr,MSBuild script,2,27
+arq-lib-mediatr,total,23,574
+pa-qa-integration-account-management,JSON,6,266014
+pa-qa-integration-account-management,Markdown,1,16
+pa-qa-integration-account-management,total,7,266030
+services-ios,Markdown,1,16
+services-ios,total,1,16
+arq-docker-mssql-tools,Markdown,1,16
+arq-docker-mssql-tools,Dockerfile,1,14
+arq-docker-mssql-tools,total,2,30
+cd-lib-hsm-api-client,C#,17,189
+cd-lib-hsm-api-client,YAML,2,74
+cd-lib-hsm-api-client,Markdown,1,16
+cd-lib-hsm-api-client,MSBuild script,1,15
+cd-lib-hsm-api-client,total,21,294
+ob-ms-lp-prospect,C#,99,3209
+ob-ms-lp-prospect,YAML,9,226
+ob-ms-lp-prospect,MSBuild script,5,94
+ob-ms-lp-prospect,JSON,4,58
+ob-ms-lp-prospect,Markdown,2,42
+ob-ms-lp-prospect,Dockerfile,2,14
+ob-ms-lp-prospect,DOS Batch,1,1
+ob-ms-lp-prospect,total,122,3644
+cd-ms-safe-mastercard,C#,62,2720
+cd-ms-safe-mastercard,JSON,6,221
+cd-ms-safe-mastercard,YAML,4,198
+cd-ms-safe-mastercard,MSBuild script,4,104
+cd-ms-safe-mastercard,Markdown,1,16
+cd-ms-safe-mastercard,Dockerfile,1,9
+cd-ms-safe-mastercard,total,78,3268
+do-tech-onboarding,YAML,1,23
+do-tech-onboarding,total,1,23
+pa-ms-person,C#,718,1217458
+pa-ms-person,Smalltalk,44,61276
+pa-ms-person,JSON,9,609
+pa-ms-person,YAML,9,255
+pa-ms-person,MSBuild script,9,204
+pa-ms-person,Markdown,1,16
+pa-ms-person,Dockerfile,1,11
+pa-ms-person,DOS Batch,1,1
+pa-ms-person,total,792,1279830
+qa-test-android-trn,C#,32,1881
+qa-test-android-trn,JSON,4,1391
+qa-test-android-trn,Cucumber,3,77
+qa-test-android-trn,MSBuild script,1,45
+qa-test-android-trn,YAML,1,23
+qa-test-android-trn,Markdown,1,16
+qa-test-android-trn,total,42,3433
+pa-tye,Markdown,1,16
+pa-tye,total,1,16
+ob-ms-bureau-collector,C#,96,4203
+ob-ms-bureau-collector,YAML,9,268
+ob-ms-bureau-collector,JSON,5,226
+ob-ms-bureau-collector,MSBuild script,6,140
+ob-ms-bureau-collector,Markdown,2,35
+ob-ms-bureau-collector,Dockerfile,2,32
+ob-ms-bureau-collector,total,120,4904
+cd-ms-courier-gateway,C#,213,6923
+cd-ms-courier-gateway,YAML,16,603
+cd-ms-courier-gateway,MSBuild script,24,405
+cd-ms-courier-gateway,liquid,3,215
+cd-ms-courier-gateway,Smalltalk,1,200
+cd-ms-courier-gateway,JSON,10,184
+cd-ms-courier-gateway,Dockerfile,2,18
+cd-ms-courier-gateway,Markdown,1,16
+cd-ms-courier-gateway,total,270,8564
+arq-event-store,C#,16,509
+arq-event-store,JSON,4,48
+arq-event-store,MSBuild script,2,31
+arq-event-store,total,22,588
+ob-ms-prometeo,C#,41,1575
+ob-ms-prometeo,YAML,9,265
+ob-ms-prometeo,MSBuild script,5,112
+ob-ms-prometeo,JSON,3,98
+ob-ms-prometeo,Dockerfile,2,28
+ob-ms-prometeo,Markdown,1,16
+ob-ms-prometeo,XML,1,15
+ob-ms-prometeo,total,62,2109
+cad-ms-email-risk,C#,62,2257
+cad-ms-email-risk,Smalltalk,6,620
+cad-ms-email-risk,YAML,8,281
+cad-ms-email-risk,MSBuild script,7,154
+cad-ms-email-risk,JSON,4,50
+cad-ms-email-risk,Markdown,2,35
+cad-ms-email-risk,Dockerfile,1,10
+cad-ms-email-risk,total,90,3407
+pa-events-accounts,C#,67,959
+pa-events-accounts,YAML,2,71
+pa-events-accounts,MSBuild script,1,15
+pa-events-accounts,Markdown,1,1
+pa-events-accounts,total,71,1046
+api-pa-operation,Markdown,1,16
+api-pa-operation,total,1,16
+bcc-gp-api-definitions,YAML,4,10134
+bcc-gp-api-definitions,Markdown,1,16
+bcc-gp-api-definitions,total,5,10150
+ob-ms-survey,C#,66,6152
+ob-ms-survey,Smalltalk,2,472
+ob-ms-survey,YAML,8,244
+ob-ms-survey,JSON,6,147
+ob-ms-survey,MSBuild script,6,124
+ob-ms-survey,Markdown,2,44
+ob-ms-survey,XML,1,31
+ob-ms-survey,Dockerfile,1,11
+ob-ms-survey,total,92,7225
+pa-ms-account-management,C#,894,157632
+pa-ms-account-management,JSON,40,3065
+pa-ms-account-management,Smalltalk,16,2895
+pa-ms-account-management,YAML,12,404
+pa-ms-account-management,MSBuild script,10,394
+pa-ms-account-management,liquid,4,232
+pa-ms-account-management,XML,1,89
+pa-ms-account-management,Markdown,1,19
+pa-ms-account-management,Dockerfile,1,9
+pa-ms-account-management,total,979,164739
+do-helm-kube-slack,YAML,8,207
+do-helm-kube-slack,Markdown,1,24
+do-helm-kube-slack,total,9,231
+ob-web-main,XML,1,20676
+ob-web-main,TypeScript,22,3066
+ob-web-main,JavaScript,60,2325
+ob-web-main,JSX,18,2063
+ob-web-main,JSON,17,1828
+ob-web-main,CSS,1,1760
+ob-web-main,YAML,11,319
+ob-web-main,Sass,2,318
+ob-web-main,HTML,1,96
+ob-web-main,Markdown,2,57
+ob-web-main,Dockerfile,1,7
+ob-web-main,total,136,32515
+do-setup-core-br,Markdown,1,16
+do-setup-core-br,JSON,1,1
+do-setup-core-br,total,2,17
+service-catalogue,Markdown,1,16
+service-catalogue,total,1,16
+ssd.puppet.sftp,Puppet,1,77
+ssd.puppet.sftp,ERB,1,2
+ssd.puppet.sftp,total,2,79
+do-poc-nosources,Markdown,3,23
+do-poc-nosources,total,3,23
+ob-ms-serasa,C#,41,1565
+ob-ms-serasa,YAML,11,348
+ob-ms-serasa,JSON,3,101
+ob-ms-serasa,MSBuild script,7,99
+ob-ms-serasa,Markdown,2,35
+ob-ms-serasa,Dockerfile,1,11
+ob-ms-serasa,total,65,2159
+do-tf-vpn-rapipago,YAML,1,61
+do-tf-vpn-rapipago,Markdown,1,16
+do-tf-vpn-rapipago,total,2,77
+sdbrasil-token-v2,C#,99,3044
+sdbrasil-token-v2,MSBuild script,9,203
+sdbrasil-token-v2,JSON,2,69
+sdbrasil-token-v2,Dockerfile,2,22
+sdbrasil-token-v2,total,112,3338
+do-poc-dev1,YAML,1,42
+do-poc-dev1,PowerShell,1,33
+do-poc-dev1,C#,2,24
+do-poc-dev1,MSBuild script,2,22
+do-poc-dev1,Markdown,1,3
+do-poc-dev1,total,7,124
+ob-ms-dnic,C#,42,2235
+ob-ms-dnic,YAML,9,276
+ob-ms-dnic,JSON,4,162
+ob-ms-dnic,MSBuild script,6,134
+ob-ms-dnic,Markdown,2,42
+ob-ms-dnic,Dockerfile,1,11
+ob-ms-dnic,total,64,2860
+bcc-utils-dotnet-logger,YAML,2,55
+bcc-utils-dotnet-logger,Markdown,1,16
+bcc-utils-dotnet-logger,total,3,71
+cd-lib-authorizer,C#,198,9087
+cd-lib-authorizer,Smalltalk,2,325
+cd-lib-authorizer,MSBuild script,6,127
+cd-lib-authorizer,YAML,2,98
+cd-lib-authorizer,Markdown,1,16
+cd-lib-authorizer,total,209,9653
+cd-ms-conciliation-mastercard,Markdown,1,16
+cd-ms-conciliation-mastercard,total,1,16
+arq-identity-manager,C#,38,1064
+arq-identity-manager,YAML,8,254
+arq-identity-manager,MSBuild script,4,87
+arq-identity-manager,XML,2,51
+arq-identity-manager,JSON,3,44
+arq-identity-manager,Dockerfile,1,12
+arq-identity-manager,total,56,1512
+bcc-events-ms-payments,C#,16,205
+bcc-events-ms-payments,YAML,2,61
+bcc-events-ms-payments,Markdown,1,16
+bcc-events-ms-payments,MSBuild script,1,14
+bcc-events-ms-payments,total,20,296
+trn-ms-payment,C#,250,33639
+trn-ms-payment,Smalltalk,1,3837
+trn-ms-payment,YAML,9,254
+trn-ms-payment,JSON,5,213
+trn-ms-payment,MSBuild script,7,170
+trn-ms-payment,Markdown,2,53
+trn-ms-payment,Dockerfile,1,11
+trn-ms-payment,total,275,38177
+api-pa-tax-manager,Markdown,1,16
+api-pa-tax-manager,total,1,16
+ob-events-account-integration,C#,16,197
+ob-events-account-integration,YAML,2,81
+ob-events-account-integration,MSBuild script,1,9
+ob-events-account-integration,total,19,287
+sd-flutter-cards,JSON,6,993
+sd-flutter-cards,Dart,8,168
+sd-flutter-cards,Groovy,3,104
+sd-flutter-cards,XML,6,60
+sd-flutter-cards,YAML,2,30
+sd-flutter-cards,Markdown,3,29
+sd-flutter-cards,HTML,1,26
+sd-flutter-cards,Swift,1,12
+sd-flutter-cards,Kotlin,1,4
+sd-flutter-cards,C/C++ Header,1,1
+sd-flutter-cards,total,32,1427
+ob-mfe-personal,JSON,11,1327
+ob-mfe-personal,TypeScript,29,1152
+ob-mfe-personal,Sass,10,494
+ob-mfe-personal,JavaScript,12,494
+ob-mfe-personal,YAML,11,341
+ob-mfe-personal,Dockerfile,1,7
+ob-mfe-personal,Markdown,1,1
+ob-mfe-personal,total,75,3816
+cad-ms-notification-builder,C#,234,14951
+cad-ms-notification-builder,MSBuild script,13,325
+cad-ms-notification-builder,YAML,9,261
+cad-ms-notification-builder,JSON,5,169
+cad-ms-notification-builder,Markdown,2,44
+cad-ms-notification-builder,Dockerfile,1,11
+cad-ms-notification-builder,total,264,15761
+pa-events-tax-manager,C#,9,129
+pa-events-tax-manager,YAML,2,74
+pa-events-tax-manager,Markdown,1,16
+pa-events-tax-manager,MSBuild script,1,9
+pa-events-tax-manager,total,13,228
+cd-db-embossing,SQL,63,1539
+cd-db-embossing,Markdown,1,16
+cd-db-embossing,total,64,1555
+trn-lib-flunt,C#,31,2607
+trn-lib-flunt,YAML,2,49
+trn-lib-flunt,MSBuild script,2,25
+trn-lib-flunt,Markdown,1,17
+trn-lib-flunt,total,36,2698
+bcc-gp-web-legalperson-main,CSS,3,3473
+bcc-gp-web-legalperson-main,JavaScript,37,2252
+bcc-gp-web-legalperson-main,JSON,12,1303
+bcc-gp-web-legalperson-main,TypeScript,19,680
+bcc-gp-web-legalperson-main,YAML,11,318
+bcc-gp-web-legalperson-main,JSX,1,279
+bcc-gp-web-legalperson-main,Sass,2,190
+bcc-gp-web-legalperson-main,HTML,1,56
+bcc-gp-web-legalperson-main,Markdown,2,49
+bcc-gp-web-legalperson-main,Dockerfile,1,7
+bcc-gp-web-legalperson-main,total,89,8607
+microfrontend-minimal-setup,JavaScript,9,214
+microfrontend-minimal-setup,JSON,4,129
+microfrontend-minimal-setup,TypeScript,2,53
+microfrontend-minimal-setup,HTML,2,52
+microfrontend-minimal-setup,Sass,2,30
+microfrontend-minimal-setup,PowerShell,1,12
+microfrontend-minimal-setup,CSS,1,12
+microfrontend-minimal-setup,Markdown,3,9
+microfrontend-minimal-setup,total,24,511
+config-repo-pull-requests,Markdown,1,16
+config-repo-pull-requests,total,1,16
+alpha1-datalake,Python,34,3270
+alpha1-datalake,JSON,15,309
+alpha1-datalake,Markdown,1,4
+alpha1-datalake,total,50,3583
+ob-web-onboarding,JavaScript,293,16116
+ob-web-onboarding,JSX,81,6911
+ob-web-onboarding,JSON,22,6561
+ob-web-onboarding,TypeScript,23,2260
+ob-web-onboarding,CSS,2,1763
+ob-web-onboarding,YAML,11,342
+ob-web-onboarding,Markdown,1,57
+ob-web-onboarding,HTML,1,30
+ob-web-onboarding,Sass,1,20
+ob-web-onboarding,Dockerfile,1,7
+ob-web-onboarding,total,436,34067
+arq-ms-hospital,C#,65,2241
+arq-ms-hospital,YAML,9,322
+arq-ms-hospital,MSBuild script,7,108
+arq-ms-hospital,JSON,5,106
+arq-ms-hospital,Markdown,1,12
+arq-ms-hospital,Dockerfile,1,9
+arq-ms-hospital,total,88,2798
+cad-ms-identity,C#,63,2639
+cad-ms-identity,YAML,9,263
+cad-ms-identity,MSBuild script,9,154
+cad-ms-identity,JSON,7,118
+cad-ms-identity,Markdown,3,81
+cad-ms-identity,Dockerfile,2,14
+cad-ms-identity,DOS Batch,1,1
+cad-ms-identity,total,94,3270
+pa-ms-charges-and-benefits,C#,1059,204568
+pa-ms-charges-and-benefits,Smalltalk,11,6334
+pa-ms-charges-and-benefits,SQL,7,2821
+pa-ms-charges-and-benefits,JSON,30,1296
+pa-ms-charges-and-benefits,YAML,15,570
+pa-ms-charges-and-benefits,MSBuild script,10,472
+pa-ms-charges-and-benefits,XML,6,192
+pa-ms-charges-and-benefits,Markdown,2,46
+pa-ms-charges-and-benefits,Dockerfile,2,18
+pa-ms-charges-and-benefits,DOS Batch,1,2
+pa-ms-charges-and-benefits,total,1143,216319
+do-agent-vsts,YAML,20,710
+do-agent-vsts,Python,3,221
+do-agent-vsts,Bourne Shell,3,132
+do-agent-vsts,Markdown,2,72
+do-agent-vsts,Ruby,1,6
+do-agent-vsts,total,29,1141
+pa-ms-condition-types,C#,49,1495
+pa-ms-condition-types,YAML,7,205
+pa-ms-condition-types,Smalltalk,1,195
+pa-ms-condition-types,MSBuild script,6,163
+pa-ms-condition-types,JSON,4,55
+pa-ms-condition-types,Markdown,2,35
+pa-ms-condition-types,Dockerfile,1,10
+pa-ms-condition-types,total,70,2158
+bank-slip-generation-ios,Swift,121,4715
+bank-slip-generation-ios,JSON,32,715
+bank-slip-generation-ios,Bourne Shell,1,156
+bank-slip-generation-ios,C/C++ Header,3,39
+bank-slip-generation-ios,Markdown,1,18
+bank-slip-generation-ios,Objective C,3,15
+bank-slip-generation-ios,total,161,5658
+ob-ms-tutorial,C#,40,1687
+ob-ms-tutorial,YAML,8,300
+ob-ms-tutorial,Smalltalk,1,119
+ob-ms-tutorial,MSBuild script,6,119
+ob-ms-tutorial,JSON,4,86
+ob-ms-tutorial,Markdown,1,16
+ob-ms-tutorial,Dockerfile,1,10
+ob-ms-tutorial,total,61,2337
+do-tf-aks-node-pool,YAML,1,50
+do-tf-aks-node-pool,Markdown,1,16
+do-tf-aks-node-pool,total,2,66
+do-healthchecks-ui,YAML,7,480
+do-healthchecks-ui,Markdown,1,16
+do-healthchecks-ui,Dockerfile,1,6
+do-healthchecks-ui,total,9,502
+pix-spi-pagador-receive-worker,Markdown,1,16
+pix-spi-pagador-receive-worker,total,1,16
+trn-svc-cross,XML,16,2950
+trn-svc-cross,Maven,5,272
+trn-svc-cross,Bourne Shell,2,217
+trn-svc-cross,DOS Batch,2,148
+trn-svc-cross,Java,2,80
+trn-svc-cross,YAML,1,53
+trn-svc-cross,Markdown,2,17
+trn-svc-cross,SQL,1,1
+trn-svc-cross,total,31,3738
+crm-ocp-pro,YAML,88,5774
+crm-ocp-pro,Markdown,1,16
+crm-ocp-pro,total,89,5790
+api-cad-userprofile-bff,Markdown,1,16
+api-cad-userprofile-bff,total,1,16
+qa-tb-brasil-integrated-tests,C#,26,1846
+qa-tb-brasil-integrated-tests,MSBuild script,2,51
+qa-tb-brasil-integrated-tests,Markdown,1,16
+qa-tb-brasil-integrated-tests,total,29,1913
+pa-events-post-processing,C#,14,224
+pa-events-post-processing,YAML,2,69
+pa-events-post-processing,Markdown,1,16
+pa-events-post-processing,MSBuild script,1,8
+pa-events-post-processing,total,18,317
+sd-flutter-vending-machine,Markdown,1,16
+sd-flutter-vending-machine,total,1,16
+cd-ms-posting-conciliation-mastercard,SQL,106,6423
+cd-ms-posting-conciliation-mastercard,C#,108,5704
+cd-ms-posting-conciliation-mastercard,YAML,7,266
+cd-ms-posting-conciliation-mastercard,MSBuild script,9,166
+cd-ms-posting-conciliation-mastercard,JSON,3,87
+cd-ms-posting-conciliation-mastercard,Markdown,1,16
+cd-ms-posting-conciliation-mastercard,Dockerfile,1,9
+cd-ms-posting-conciliation-mastercard,Bourne Shell,2,7
+cd-ms-posting-conciliation-mastercard,DOS Batch,2,5
+cd-ms-posting-conciliation-mastercard,total,239,12683
+do-ansible-elasticsearch,YAML,25,997
+do-ansible-elasticsearch,Markdown,2,71
+do-ansible-elasticsearch,Python,1,66
+do-ansible-elasticsearch,Bourne Shell,3,39
+do-ansible-elasticsearch,Ruby,1,24
+do-ansible-elasticsearch,total,32,1197
+ssd.puppet.chocolatey_installer,Puppet,1,8
+ssd.puppet.chocolatey_installer,total,1,8
+cd-ms-posting-webhook,YAML,11,339
+cd-ms-posting-webhook,C#,4,161
+cd-ms-posting-webhook,JSON,3,26
+cd-ms-posting-webhook,MSBuild script,2,24
+cd-ms-posting-webhook,Markdown,1,16
+cd-ms-posting-webhook,Dockerfile,1,9
+cd-ms-posting-webhook,total,22,575
+api-NOUSAR-sysapi-communicationProvider-v1,Markdown,1,16
+api-NOUSAR-sysapi-communicationProvider-v1,total,1,16
+pa-qa-integration-lock-documents,Markdown,1,16
+pa-qa-integration-lock-documents,JSON,1,1
+pa-qa-integration-lock-documents,total,2,17
+pa-client-ms-product,C#,76,1625
+pa-client-ms-product,YAML,2,68
+pa-client-ms-product,MSBuild script,2,35
+pa-client-ms-product,Markdown,1,16
+pa-client-ms-product,total,81,1744
+pa-event-definitions,YAML,3,2119
+pa-event-definitions,Markdown,1,7
+pa-event-definitions,total,4,2126
+ob-ios-authentication-pod,Swift,41,1855
+ob-ios-authentication-pod,JSON,9,251
+ob-ios-authentication-pod,YAML,1,61
+ob-ios-authentication-pod,Markdown,1,18
+ob-ios-authentication-pod,total,52,2185
+trn-android-pix,XML,8,241
+trn-android-pix,Bourne Shell,1,129
+trn-android-pix,DOS Batch,1,59
+trn-android-pix,Groovy,3,53
+trn-android-pix,Kotlin,3,32
+trn-android-pix,Prolog,1,18
+trn-android-pix,Markdown,1,16
+trn-android-pix,total,18,548
+pa-ms-transactions,C#,1238,773590
+pa-ms-transactions,Smalltalk,4,2420
+pa-ms-transactions,JSON,44,2199
+pa-ms-transactions,YAML,18,717
+pa-ms-transactions,MSBuild script,11,437
+pa-ms-transactions,liquid,3,215
+pa-ms-transactions,XML,1,152
+pa-ms-transactions,Markdown,1,21
+pa-ms-transactions,Dockerfile,2,20
+pa-ms-transactions,DOS Batch,4,7
+pa-ms-transactions,total,1326,779778
+ob-events-FavoriteTransportTicket-integration,C#,7,105
+ob-events-FavoriteTransportTicket-integration,YAML,2,81
+ob-events-FavoriteTransportTicket-integration,Markdown,1,16
+ob-events-FavoriteTransportTicket-integration,MSBuild script,1,9
+ob-events-FavoriteTransportTicket-integration,total,11,211
+arq-lib-common-logger,C#,21,970
+arq-lib-common-logger,YAML,3,170
+arq-lib-common-logger,JSON,6,155
+arq-lib-common-logger,Markdown,1,113
+arq-lib-common-logger,MSBuild script,4,50
+arq-lib-common-logger,total,35,1458
+topaz-artifacts,XSD,274,149948
+topaz-artifacts,JavaScript,19,70229
+topaz-artifacts,XML,398,18850
+topaz-artifacts,CSS,7,10540
+topaz-artifacts,HTML,14,1830
+topaz-artifacts,Bourne Shell,14,1535
+topaz-artifacts,JSON,7,1310
+topaz-artifacts,DOS Batch,23,1144
+topaz-artifacts,PowerShell,14,442
+topaz-artifacts,PHP,1,314
+topaz-artifacts,Markdown,2,43
+topaz-artifacts,YAML,1,35
+topaz-artifacts,total,774,256220
+do-poc-sonarqube,YAML,1,44
+do-poc-sonarqube,C#,2,33
+do-poc-sonarqube,MSBuild script,2,21
+do-poc-sonarqube,Markdown,1,2
+do-poc-sonarqube,total,6,100
+do-kafka-deploy,YAML,10,323
+do-kafka-deploy,Python,1,118
+do-kafka-deploy,Bourne Shell,1,12
+do-kafka-deploy,Dockerfile,1,7
+do-kafka-deploy,total,13,460
+pa-client-ms-transactions,C#,36,527
+pa-client-ms-transactions,YAML,2,80
+pa-client-ms-transactions,Markdown,1,16
+pa-client-ms-transactions,MSBuild script,1,16
+pa-client-ms-transactions,total,40,639
+ob-ms-prospect-validation,C#,82,4461
+ob-ms-prospect-validation,YAML,9,268
+ob-ms-prospect-validation,JSON,7,187
+ob-ms-prospect-validation,MSBuild script,6,125
+ob-ms-prospect-validation,Markdown,2,53
+ob-ms-prospect-validation,Dockerfile,1,11
+ob-ms-prospect-validation,total,107,5105
+cad-db-kyc,SQL,35,6647
+cad-db-kyc,YAML,1,8
+cad-db-kyc,Markdown,1,1
+cad-db-kyc,total,37,6656
+cd-azure-minio,YAML,19,1180
+cd-azure-minio,Markdown,1,279
+cd-azure-minio,total,20,1459
+qa-test-mobile-trn,Markdown,1,16
+qa-test-mobile-trn,total,1,16
+api-trn-transfer,Markdown,1,16
+api-trn-transfer,total,1,16
+pix-chave-dict-worker,Markdown,1,16
+pix-chave-dict-worker,total,1,16
+ssd.puppet.dotnet_framework_installer,Puppet,1,14
+ssd.puppet.dotnet_framework_installer,total,1,14
+qa-pix-brazil-integrated-tests,Markdown,1,16
+qa-pix-brazil-integrated-tests,total,1,16
+ob-ms-bankstatement-Integration-collector,C#,34,903
+ob-ms-bankstatement-Integration-collector,JSON,3,466
+ob-ms-bankstatement-Integration-collector,YAML,9,262
+ob-ms-bankstatement-Integration-collector,MSBuild script,8,163
+ob-ms-bankstatement-Integration-collector,Markdown,1,16
+ob-ms-bankstatement-Integration-collector,Dockerfile,1,11
+ob-ms-bankstatement-Integration-collector,total,56,1821
+do-k8s-zeebe,YAML,339,64158
+do-k8s-zeebe,Markdown,12,1664
+do-k8s-zeebe,JSON,29,844
+do-k8s-zeebe,make,18,181
+do-k8s-zeebe,Bourne Shell,2,48
+do-k8s-zeebe,Dockerfile,2,4
+do-k8s-zeebe,total,402,66899
+pa-ms-post-processing,C#,29,697
+pa-ms-post-processing,YAML,8,271
+pa-ms-post-processing,MSBuild script,7,105
+pa-ms-post-processing,JSON,5,97
+pa-ms-post-processing,Dockerfile,2,20
+pa-ms-post-processing,Markdown,1,16
+pa-ms-post-processing,DOS Batch,1,1
+pa-ms-post-processing,total,53,1207
+cd-qa-integration-embossing,C#,10,760
+cd-qa-integration-embossing,MSBuild script,1,23
+cd-qa-integration-embossing,JSON,2,22
+cd-qa-integration-embossing,Markdown,1,16
+cd-qa-integration-embossing,total,14,821
+arq-ms-sonarqube-proxy,JSON,2,411
+arq-ms-sonarqube-proxy,YAML,7,207
+arq-ms-sonarqube-proxy,JavaScript,1,53
+arq-ms-sonarqube-proxy,Markdown,1,16
+arq-ms-sonarqube-proxy,Dockerfile,1,9
+arq-ms-sonarqube-proxy,total,12,696
+do-helm-kafka-connect-ui,YAML,8,209
+do-helm-kafka-connect-ui,Dockerfile,1,9
+do-helm-kafka-connect-ui,Markdown,1,1
+do-helm-kafka-connect-ui,total,10,219
+ob-events-emailage-integration,C#,7,177
+ob-events-emailage-integration,YAML,2,81
+ob-events-emailage-integration,Markdown,1,16
+ob-events-emailage-integration,MSBuild script,1,9
+ob-events-emailage-integration,total,11,283
+api-pa-account-management,Markdown,1,16
+api-pa-account-management,total,1,16
+cd-posting-libs,Maven,3711,745022
+cd-posting-libs,XML,44,3284
+cd-posting-libs,SQL,48,2544
+cd-posting-libs,YAML,1,217
+cd-posting-libs,INI,1,32
+cd-posting-libs,total,3805,751099
+san-idv-sample,JSON,27,29750
+san-idv-sample,XML,51,1851
+san-idv-sample,TypeScript,59,1031
+san-idv-sample,C/C++ Header,32,947
+san-idv-sample,JavaScript,17,664
+san-idv-sample,Sass,3,516
+san-idv-sample,Kotlin,3,157
+san-idv-sample,Bourne Shell,1,129
+san-idv-sample,HTML,15,125
+san-idv-sample,Groovy,8,78
+san-idv-sample,Swift,3,73
+san-idv-sample,CSS,2,64
+san-idv-sample,DOS Batch,1,59
+san-idv-sample,Markdown,3,41
+san-idv-sample,Prolog,1,18
+san-idv-sample,total,226,35503
+topaz-db-amlsupla,SQL,432,20408
+topaz-db-amlsupla,YAML,1,33
+topaz-db-amlsupla,Markdown,1,16
+topaz-db-amlsupla,total,434,20457
+digital-withdrawal-ios,Swift,124,3590
+digital-withdrawal-ios,JSON,22,485
+digital-withdrawal-ios,Bourne Shell,1,156
+digital-withdrawal-ios,C/C++ Header,3,39
+digital-withdrawal-ios,Markdown,1,18
+digital-withdrawal-ios,Objective C,3,15
+digital-withdrawal-ios,total,154,4303
+superdigital-gradle-axion.devops,Kotlin,150,6104
+superdigital-gradle-axion.devops,XML,56,1314
+superdigital-gradle-axion.devops,Java,9,596
+superdigital-gradle-axion.devops,Groovy,5,300
+superdigital-gradle-axion.devops,Bourne Shell,1,129
+superdigital-gradle-axion.devops,YAML,1,63
+superdigital-gradle-axion.devops,Markdown,1,61
+superdigital-gradle-axion.devops,DOS Batch,1,59
+superdigital-gradle-axion.devops,Prolog,1,18
+superdigital-gradle-axion.devops,total,225,8644
+bcc-gp-ms-payroll-bff,C#,376,14159
+bcc-gp-ms-payroll-bff,MSBuild script,7,355
+bcc-gp-ms-payroll-bff,YAML,8,229
+bcc-gp-ms-payroll-bff,JSON,5,146
+bcc-gp-ms-payroll-bff,Markdown,2,35
+bcc-gp-ms-payroll-bff,Dockerfile,1,11
+bcc-gp-ms-payroll-bff,XML,1,8
+bcc-gp-ms-payroll-bff,total,400,14943
+cd-ms-settlement-mastercard,Markdown,1,16
+cd-ms-settlement-mastercard,total,1,16
+cc-web-config-nginx,Markdown,1,16
+cc-web-config-nginx,total,1,16
+ob-lib-onboarding-core,C#,23,924
+ob-lib-onboarding-core,XML,1,145
+ob-lib-onboarding-core,YAML,2,72
+ob-lib-onboarding-core,MSBuild script,2,44
+ob-lib-onboarding-core,Markdown,1,16
+ob-lib-onboarding-core,JSON,1,10
+ob-lib-onboarding-core,total,30,1211
+pa-ms-product,C#,697,357223
+pa-ms-product,Smalltalk,27,14106
+pa-ms-product,JSON,37,2988
+pa-ms-product,SQL,1,1658
+pa-ms-product,YAML,10,341
+pa-ms-product,MSBuild script,9,286
+pa-ms-product,Markdown,1,19
+pa-ms-product,Dockerfile,1,9
+pa-ms-product,total,783,376630
+pa-qa-integration-organizational-structure,JSON,3,9144
+pa-qa-integration-organizational-structure,total,3,9144
+api-ob-bff,Markdown,1,16
+api-ob-bff,total,1,16
+do-prometheus,YAML,48,2846
+do-prometheus,Markdown,2,169
+do-prometheus,total,50,3015
+do-kube-state-metrics,YAML,16,818
+do-kube-state-metrics,Markdown,2,58
+do-kube-state-metrics,total,18,876
+pix-spi-lancamento-api,Markdown,1,16
+pix-spi-lancamento-api,total,1,16
+pix-spi-pagador-sgct-worker,Markdown,1,16
+pix-spi-pagador-sgct-worker,total,1,16
+ob-events-bureau-integration,C#,7,129
+ob-events-bureau-integration,YAML,2,81
+ob-events-bureau-integration,MSBuild script,1,9
+ob-events-bureau-integration,total,10,219
+pix-spi-recebedor-response-worker,Markdown,1,16
+pix-spi-recebedor-response-worker,total,1,16
+cad-db-address,SQL,251,2452354
+cad-db-address,YAML,1,8
+cad-db-address,Markdown,1,1
+cad-db-address,total,253,2452363
+do-helm-kafka-rest-api,YAML,7,286
+do-helm-kafka-rest-api,Markdown,1,132
+do-helm-kafka-rest-api,Dockerfile,1,4
+do-helm-kafka-rest-api,total,9,422
+ob-lib-kafka-connectors,JSON,27,462
+ob-lib-kafka-connectors,YAML,1,53
+ob-lib-kafka-connectors,Markdown,1,51
+ob-lib-kafka-connectors,total,29,566
+san-auth-ios,C,6,135954
+san-auth-ios,Objective C,154,43100
+san-auth-ios,Swift,343,24850
+san-auth-ios,C/C++ Header,245,11568
+san-auth-ios,JSON,184,4150
+san-auth-ios,Markdown,20,2036
+san-auth-ios,Bourne Shell,2,266
+san-auth-ios,YAML,1,42
+san-auth-ios,HTML,1,29
+san-auth-ios,total,956,221995
+bi-datalake,Python,38,4219
+bi-datalake,JSON,15,620
+bi-datalake,Markdown,3,46
+bi-datalake,Bourne Shell,2,39
+bi-datalake,YAML,1,21
+bi-datalake,total,59,4945
+cd-ms-embossing,C#,422,21530
+cd-ms-embossing,Smalltalk,7,2591
+cd-ms-embossing,SQL,37,2248
+cd-ms-embossing,JSON,10,793
+cd-ms-embossing,YAML,14,648
+cd-ms-embossing,MSBuild script,16,314
+cd-ms-embossing,Dockerfile,2,18
+cd-ms-embossing,Markdown,1,16
+cd-ms-embossing,total,509,28158
+trn-ios-main,Swift,336,26662
+trn-ios-main,JSON,264,6016
+trn-ios-main,YAML,1,61
+trn-ios-main,Markdown,1,18
+trn-ios-main,C/C++ Header,2,3
+trn-ios-main,Objective C,2,2
+trn-ios-main,total,606,32762
+ob-ms-prospect-device-validation,C#,55,1817
+ob-ms-prospect-device-validation,YAML,11,292
+ob-ms-prospect-device-validation,MSBuild script,7,155
+ob-ms-prospect-device-validation,JSON,5,120
+ob-ms-prospect-device-validation,Dockerfile,2,31
+ob-ms-prospect-device-validation,Markdown,1,16
+ob-ms-prospect-device-validation,XML,1,8
+ob-ms-prospect-device-validation,total,82,2439
+ob-events-BankStatement-Integration,C#,7,98
+ob-events-BankStatement-Integration,YAML,2,81
+ob-events-BankStatement-Integration,Markdown,1,16
+ob-events-BankStatement-Integration,MSBuild script,1,9
+ob-events-BankStatement-Integration,total,11,204
+api-cad-notification-builder,Markdown,1,16
+api-cad-notification-builder,total,1,16
+ob-ms-rules-validation,C#,45,2468
+ob-ms-rules-validation,YAML,9,257
+ob-ms-rules-validation,MSBuild script,8,149
+ob-ms-rules-validation,Smalltalk,1,99
+ob-ms-rules-validation,JSON,3,29
+ob-ms-rules-validation,Markdown,1,16
+ob-ms-rules-validation,Dockerfile,1,11
+ob-ms-rules-validation,XML,1,8
+ob-ms-rules-validation,total,69,3037
+qa-automation-rest-api-transaction-broker,JSON,3,452
+qa-automation-rest-api-transaction-broker,Markdown,1,16
+qa-automation-rest-api-transaction-broker,total,4,468
+pix-chave-reivindicacao-modificadas-worker,Markdown,1,16
+pix-chave-reivindicacao-modificadas-worker,total,1,16
+ob-ios-common-pod,Swift,135,4424
+ob-ios-common-pod,C/C++ Header,17,1293
+ob-ios-common-pod,JSON,3,180
+ob-ios-common-pod,Markdown,1,18
+ob-ios-common-pod,YAML,1,8
+ob-ios-common-pod,total,157,5923
+ssd.puppet.topaz,XML,33,7124
+ssd.puppet.topaz,JSON,5,1399
+ssd.puppet.topaz,JavaScript,12,167
+ssd.puppet.topaz,Puppet,1,76
+ssd.puppet.topaz,Markdown,1,16
+ssd.puppet.topaz,CSS,3,5
+ssd.puppet.topaz,HTML,1,1
+ssd.puppet.topaz,total,56,8788
+do-setup-core,JSON,194,109571
+do-setup-core,Handlebars,1,164
+do-setup-core,Markdown,1,16
+do-setup-core,total,196,109751
+bcc-ms-integration,Smalltalk,4,11869
+bcc-ms-integration,C#,111,4155
+bcc-ms-integration,Protocol Buffers,15,440
+bcc-ms-integration,YAML,7,214
+bcc-ms-integration,MSBuild script,7,153
+bcc-ms-integration,JSON,2,104
+bcc-ms-integration,Dockerfile,1,20
+bcc-ms-integration,total,147,16955
+do-tf-module-sql-databases,PowerShell,1,40
+do-tf-module-sql-databases,Markdown,1,2
+do-tf-module-sql-databases,total,2,42
+bcc-gp-events-ms-filesmanager,C#,19,221
+bcc-gp-events-ms-filesmanager,YAML,2,62
+bcc-gp-events-ms-filesmanager,Markdown,1,16
+bcc-gp-events-ms-filesmanager,MSBuild script,1,15
+bcc-gp-events-ms-filesmanager,total,23,314
+cd-db-configurations,SQL,16,5450
+cd-db-configurations,YAML,1,25
+cd-db-configurations,Markdown,1,1
+cd-db-configurations,total,18,5476
+poc-templates,YAML,17,321
+poc-templates,Markdown,2,187
+poc-templates,total,19,508
+bcc-keycloak-design,CSS,41,124376
+bcc-keycloak-design,JavaScript,192,104911
+bcc-keycloak-design,HTML,214,14329
+bcc-keycloak-design,JSON,6,4151
+bcc-keycloak-design,TypeScript,35,2629
+bcc-keycloak-design,Freemarker Template,56,2522
+bcc-keycloak-design,XML,3,1849
+bcc-keycloak-design,Markdown,5,224
+bcc-keycloak-design,YAML,2,29
+bcc-keycloak-design,DOS Batch,1,7
+bcc-keycloak-design,Dockerfile,1,2
+bcc-keycloak-design,total,556,255029
+api-NOUSAR-mock,Markdown,1,16
+api-NOUSAR-mock,total,1,16
+pa-client-ms-tax-manager,C#,28,354
+pa-client-ms-tax-manager,YAML,2,80
+pa-client-ms-tax-manager,Markdown,1,16
+pa-client-ms-tax-manager,MSBuild script,1,16
+pa-client-ms-tax-manager,total,32,466
+arq-lib-cryptonet,C#,5,168
+arq-lib-cryptonet,YAML,2,49
+arq-lib-cryptonet,MSBuild script,2,20
+arq-lib-cryptonet,total,9,237
+cd-ms-hsm,C#,43,2210
+cd-ms-hsm,YAML,8,286
+cd-ms-hsm,JSON,6,141
+cd-ms-hsm,MSBuild script,5,99
+cd-ms-hsm,TypeScript,1,37
+cd-ms-hsm,Markdown,1,17
+cd-ms-hsm,Dockerfile,1,9
+cd-ms-hsm,total,65,2799
+ob-ms-FavoriteTransportTicket-Integration-collector,C#,36,998
+ob-ms-FavoriteTransportTicket-Integration-collector,JSON,3,471
+ob-ms-FavoriteTransportTicket-Integration-collector,MSBuild script,5,65
+ob-ms-FavoriteTransportTicket-Integration-collector,Markdown,1,16
+ob-ms-FavoriteTransportTicket-Integration-collector,total,45,1550
+cd-api-definitions,YAML,3,2249
+cd-api-definitions,Markdown,1,16
+cd-api-definitions,total,4,2265
+ob-ios-common-ui-pod,Swift,132,7835
+ob-ios-common-ui-pod,JSON,79,2064
+ob-ios-common-ui-pod,YAML,1,60
+ob-ios-common-ui-pod,Markdown,1,18
+ob-ios-common-ui-pod,total,213,9977
+do-poc-dev2,Markdown,1,16
+do-poc-dev2,total,1,16
+san-ios-va,Swift,30,1134
+san-ios-va,YAML,1,92
+san-ios-va,Markdown,1,83
+san-ios-va,JSON,3,54
+san-ios-va,total,35,1363
+arq-config-server,YAML,12,288
+arq-config-server,Bourne Shell,2,133
+arq-config-server,DOS Batch,1,59
+arq-config-server,Groovy,2,35
+arq-config-server,Dockerfile,1,20
+arq-config-server,Java,2,20
+arq-config-server,total,20,555
+ob-ms-prospect-notifications,C#,40,1309
+ob-ms-prospect-notifications,YAML,9,264
+ob-ms-prospect-notifications,JSON,5,191
+ob-ms-prospect-notifications,MSBuild script,7,152
+ob-ms-prospect-notifications,Markdown,2,35
+ob-ms-prospect-notifications,Dockerfile,2,28
+ob-ms-prospect-notifications,total,65,1979
+cd-configuration-management,Markdown,1,16
+cd-configuration-management,total,1,16
+superdigital-ios,Swift,42,1237
+superdigital-ios,YAML,1,382
+superdigital-ios,JSON,16,335
+superdigital-ios,Markdown,1,1
+superdigital-ios,total,60,1955
+cassandra-migrate-agent,Python,1,382
+cassandra-migrate-agent,YAML,6,131
+cassandra-migrate-agent,Dockerfile,1,3
+cassandra-migrate-agent,total,8,516
+ob-ms-FavoriteMobileRecharge-Integration-collector,Markdown,1,16
+ob-ms-FavoriteMobileRecharge-Integration-collector,total,1,16
+ob-events-balance-integration,C#,8,107
+ob-events-balance-integration,YAML,2,81
+ob-events-balance-integration,Markdown,1,16
+ob-events-balance-integration,MSBuild script,1,12
+ob-events-balance-integration,total,12,216
+qa-automation-rest-api-cards-authorizer,JSON,4,28464
+qa-automation-rest-api-cards-authorizer,Markdown,1,16
+qa-automation-rest-api-cards-authorizer,total,5,28480
+qa-core-pampas-integrated-tests,Markdown,1,16
+qa-core-pampas-integrated-tests,total,1,16
+trn-ms-transfer,C#,284,12965
+trn-ms-transfer,YAML,9,274
+trn-ms-transfer,JSON,7,248
+trn-ms-transfer,MSBuild script,9,213
+trn-ms-transfer,Smalltalk,1,98
+trn-ms-transfer,Markdown,2,53
+trn-ms-transfer,Dockerfile,2,20
+trn-ms-transfer,total,314,13871
+superdigital-android-app,YAML,1,349
+superdigital-android-app,Groovy,4,237
+superdigital-android-app,JSON,1,191
+superdigital-android-app,XML,6,181
+superdigital-android-app,Bourne Shell,1,129
+superdigital-android-app,DOS Batch,1,59
+superdigital-android-app,Kotlin,2,49
+superdigital-android-app,Markdown,1,32
+superdigital-android-app,Prolog,1,18
+superdigital-android-app,total,18,1245
+pa-qa-integration-person,JSON,3,23772
+pa-qa-integration-person,Markdown,1,16
+pa-qa-integration-person,total,4,23788
+trn-svc-adaptor-pts-migration,JSON,90,10330
+trn-svc-adaptor-pts-migration,XML,19,1077
+trn-svc-adaptor-pts-migration,YAML,12,656
+trn-svc-adaptor-pts-migration,XSLT,4,175
+trn-svc-adaptor-pts-migration,Bourne Shell,3,98
+trn-svc-adaptor-pts-migration,Groovy,3,76
+trn-svc-adaptor-pts-migration,Dockerfile,1,48
+trn-svc-adaptor-pts-migration,Markdown,1,8
+trn-svc-adaptor-pts-migration,INI,1,3
+trn-svc-adaptor-pts-migration,total,134,12471
+api-trn-payment,Markdown,1,16
+api-trn-payment,total,1,16
+do-tf-vpn,Markdown,1,16
+do-tf-vpn,total,1,16
+pix-spi-recebedor-sgct-worker,Markdown,1,16
+pix-spi-recebedor-sgct-worker,total,1,16
+pa-flows,XML,3,2370
+pa-flows,Markdown,1,8
+pa-flows,total,4,2378
+cad-ms-userprofile-profile,C#,96,4274
+cad-ms-userprofile-profile,YAML,10,262
+cad-ms-userprofile-profile,MSBuild script,8,236
+cad-ms-userprofile-profile,JSON,8,227
+cad-ms-userprofile-profile,Markdown,2,54
+cad-ms-userprofile-profile,Dockerfile,1,11
+cad-ms-userprofile-profile,DOS Batch,2,3
+cad-ms-userprofile-profile,total,127,5067
+example-python-cronjob,YAML,4,87
+example-python-cronjob,Markdown,1,16
+example-python-cronjob,Dockerfile,1,9
+example-python-cronjob,Python,1,1
+example-python-cronjob,total,7,113
+qa-brazil-migration-integrated-tests,C#,17,509
+qa-brazil-migration-integrated-tests,JSON,7,180
+qa-brazil-migration-integrated-tests,MSBuild script,1,48
+qa-brazil-migration-integrated-tests,Markdown,1,16
+qa-brazil-migration-integrated-tests,total,26,753
+pa-client-ms-account-management,C#,101,2031
+pa-client-ms-account-management,YAML,2,68
+pa-client-ms-account-management,MSBuild script,2,45
+pa-client-ms-account-management,XML,1,26
+pa-client-ms-account-management,Markdown,1,16
+pa-client-ms-account-management,total,107,2186
+do-tf-cassandra,Markdown,3,87
+do-tf-cassandra,Bourne Shell,2,72
+do-tf-cassandra,YAML,1,62
+do-tf-cassandra,total,6,221
+pa-ms-lock-documents,C#,338,37230
+pa-ms-lock-documents,Smalltalk,13,6883
+pa-ms-lock-documents,JSON,12,398
+pa-ms-lock-documents,MSBuild script,10,294
+pa-ms-lock-documents,YAML,9,261
+pa-ms-lock-documents,Markdown,2,35
+pa-ms-lock-documents,Dockerfile,1,11
+pa-ms-lock-documents,DOS Batch,2,2
+pa-ms-lock-documents,total,387,45114
+api-NOUSAR-oauth,Markdown,1,16
+api-NOUSAR-oauth,total,1,16
+qa-tb-colombia-integrated-tests,C#,10,381
+qa-tb-colombia-integrated-tests,MSBuild script,1,17
+qa-tb-colombia-integrated-tests,Markdown,1,16
+qa-tb-colombia-integrated-tests,total,12,414
+pa-events-dictionary,Markdown,1,16
+pa-events-dictionary,total,1,16
+arq-lib-common-data,C#,57,5792
+arq-lib-common-data,Markdown,4,286
+arq-lib-common-data,MSBuild script,5,81
+arq-lib-common-data,JSON,3,72
+arq-lib-common-data,YAML,2,50
+arq-lib-common-data,total,71,6281
+trn-svc-adaptor-pts,JSON,90,10330
+trn-svc-adaptor-pts,XML,19,1077
+trn-svc-adaptor-pts,YAML,13,674
+trn-svc-adaptor-pts,XSLT,4,175
+trn-svc-adaptor-pts,Bourne Shell,3,98
+trn-svc-adaptor-pts,Groovy,3,76
+trn-svc-adaptor-pts,Dockerfile,1,48
+trn-svc-adaptor-pts,Markdown,1,8
+trn-svc-adaptor-pts,INI,1,3
+trn-svc-adaptor-pts,total,135,12489
+do-poc-yarn,JavaScript,6,151
+do-poc-yarn,JSON,3,90
+do-poc-yarn,YAML,1,54
+do-poc-yarn,CSS,2,45
+do-poc-yarn,HTML,1,20
+do-poc-yarn,Markdown,1,16
+do-poc-yarn,total,14,376
+pa-events-lock-documents,C#,15,234
+pa-events-lock-documents,YAML,2,70
+pa-events-lock-documents,MSBuild script,1,14
+pa-events-lock-documents,Markdown,1,1
+pa-events-lock-documents,total,19,319
+qa-tb-uruguay-integrated-tests,C#,6,246
+qa-tb-uruguay-integrated-tests,Markdown,1,16
+qa-tb-uruguay-integrated-tests,MSBuild script,1,14
+qa-tb-uruguay-integrated-tests,total,8,276
+ssd.puppet.powershell_installer,Puppet,1,14
+ssd.puppet.powershell_installer,total,1,14
+template-java,Markdown,1,16
+template-java,total,1,16
+pa-qa-lake,C#,38,936
+pa-qa-lake,YAML,10,265
+pa-qa-lake,MSBuild script,2,42
+pa-qa-lake,JSON,2,31
+pa-qa-lake,Markdown,1,13
+pa-qa-lake,total,53,1287
+cad-ms-address,C#,187,10348
+cad-ms-address,Smalltalk,13,3600
+cad-ms-address,YAML,9,266
+cad-ms-address,JSON,7,199
+cad-ms-address,MSBuild script,6,158
+cad-ms-address,Markdown,2,42
+cad-ms-address,Dockerfile,1,11
+cad-ms-address,total,225,14624
+pix-spi-pagador-send-worker,Markdown,1,16
+pix-spi-pagador-send-worker,total,1,16
+pa-ms-calculation-log,C#,81,3295
+pa-ms-calculation-log,YAML,12,509
+pa-ms-calculation-log,MSBuild script,11,321
+pa-ms-calculation-log,liquid,3,215
+pa-ms-calculation-log,XML,1,152
+pa-ms-calculation-log,JSON,11,152
+pa-ms-calculation-log,Markdown,1,21
+pa-ms-calculation-log,Dockerfile,1,9
+pa-ms-calculation-log,total,121,4674
+pa-events-persons,C#,17,274
+pa-events-persons,YAML,2,70
+pa-events-persons,MSBuild script,1,14
+pa-events-persons,Markdown,1,1
+pa-events-persons,total,21,359
+do-poc-android,Java,46,3668
+do-poc-android,XML,34,608
+do-poc-android,Bourne Again Shell,1,123
+do-poc-android,YAML,2,116
+do-poc-android,Groovy,3,105
+do-poc-android,DOS Batch,1,64
+do-poc-android,Markdown,2,23
+do-poc-android,Prolog,1,21
+do-poc-android,total,90,4728
+bcc-gp-ms-authorization,C#,81,2653
+bcc-gp-ms-authorization,MSBuild script,11,274
+bcc-gp-ms-authorization,YAML,9,261
+bcc-gp-ms-authorization,JSON,6,223
+bcc-gp-ms-authorization,Markdown,2,36
+bcc-gp-ms-authorization,Dockerfile,1,11
+bcc-gp-ms-authorization,total,110,3458
+ccoe-td-peru,CSS,1,826
+ccoe-td-peru,Markdown,9,133
+ccoe-td-peru,total,10,959
+qa-test-mobile-ios,Java,47,2886
+qa-test-mobile-ios,XML,90,1473
+qa-test-mobile-ios,Maven,1,124
+qa-test-mobile-ios,Markdown,1,40
+qa-test-mobile-ios,Bourne Shell,1,7
+qa-test-mobile-ios,DOS Batch,1,4
+qa-test-mobile-ios,total,141,4534
+bcc-qa-integration-transport,Markdown,1,16
+bcc-qa-integration-transport,total,1,16
+api-pa-organizational-structure,Markdown,1,16
+api-pa-organizational-structure,total,1,16
+mbr-orchestrator,Markdown,1,16
+mbr-orchestrator,total,1,16
+qa_automation_rest_api_mbr_cards_dataprep,Markdown,1,16
+qa_automation_rest_api_mbr_cards_dataprep,total,1,16
+cl-transport-sonda-assets,Java,1,184
+cl-transport-sonda-assets,total,1,184
+pocs,JavaScript,27,17893
+pocs,CSS,18,14505
+pocs,JSON,61,10943
+pocs,C#,190,10007
+pocs,HTML,37,5414
+pocs,Markdown,29,1823
+pocs,PowerShell,31,994
+pocs,MSBuild script,29,384
+pocs,Java,13,359
+pocs,Bourne Shell,16,237
+pocs,DOS Batch,27,212
+pocs,Razor,8,154
+pocs,YAML,5,150
+pocs,Maven,1,62
+pocs,total,492,63137
+cad-events-notifications,C#,42,619
+cad-events-notifications,YAML,2,81
+cad-events-notifications,Markdown,1,16
+cad-events-notifications,MSBuild script,1,13
+cad-events-notifications,total,46,729
+trn-ios-pix,Swift,132,4158
+trn-ios-pix,JSON,27,370
+trn-ios-pix,Markdown,1,18
+trn-ios-pix,YAML,1,5
+trn-ios-pix,total,161,4551
+qa-automation-data,Markdown,1,16
+qa-automation-data,total,1,16
+pa-client-lock-documents,C#,26,320
+pa-client-lock-documents,YAML,2,80
+pa-client-lock-documents,MSBuild script,2,33
+pa-client-lock-documents,Markdown,1,16
+pa-client-lock-documents,total,31,449
+qa-automation-rest-api-cross-development,Markdown,1,16
+qa-automation-rest-api-cross-development,total,1,16
+arq-lib-common-silverback,C#,73,2426
+arq-lib-common-silverback,Markdown,1,446
+arq-lib-common-silverback,MSBuild script,5,81
+arq-lib-common-silverback,YAML,4,77
+arq-lib-common-silverback,JSON,3,74
+arq-lib-common-silverback,total,86,3104
+bcc-gp-ms-payments,C#,314,18623
+bcc-gp-ms-payments,Smalltalk,1,767
+bcc-gp-ms-payments,MSBuild script,11,384
+bcc-gp-ms-payments,JSON,5,266
+bcc-gp-ms-payments,YAML,9,233
+bcc-gp-ms-payments,Markdown,2,41
+bcc-gp-ms-payments,Dockerfile,1,11
+bcc-gp-ms-payments,INI,1,4
+bcc-gp-ms-payments,total,344,20329
+cd-qa-integration-authorizer,Markdown,1,16
+cd-qa-integration-authorizer,total,1,16
+rr-ms-4.1-bacen-ccs,YAML,5,108
+rr-ms-4.1-bacen-ccs,Python,1,28
+rr-ms-4.1-bacen-ccs,Markdown,1,16
+rr-ms-4.1-bacen-ccs,Dockerfile,1,10
+rr-ms-4.1-bacen-ccs,total,8,162
+tooling,C#,5,128
+tooling,YAML,4,53
+tooling,Markdown,1,16
+tooling,Bourne Shell,1,13
+tooling,MSBuild script,1,11
+tooling,total,12,221
+api-pa-person,Markdown,1,16
+api-pa-person,total,1,16
+api-NOUSAR-globalplatform-openapi,Markdown,1,16
+api-NOUSAR-globalplatform-openapi,total,1,16
+devops-test,Markdown,1,16
+devops-test,total,1,16
+cad-ms-userprofile-notification,C#,113,4235
+cad-ms-userprofile-notification,MSBuild script,12,326
+cad-ms-userprofile-notification,YAML,9,260
+cad-ms-userprofile-notification,JSON,4,117
+cad-ms-userprofile-notification,Markdown,2,44
+cad-ms-userprofile-notification,Dockerfile,1,11
+cad-ms-userprofile-notification,total,141,4993
+api-ob-veridas,Markdown,1,16
+api-ob-veridas,total,1,16
+design-token-language,JSON,1112,4073
+design-token-language,Swift,48,2788
+design-token-language,CSS,1,1650
+design-token-language,Sass,1,1648
+design-token-language,TypeScript,17,1092
+design-token-language,JavaScript,1,1069
+design-token-language,Kotlin,35,827
+design-token-language,Bourne Shell,7,76
+design-token-language,Groovy,1,70
+design-token-language,YAML,2,55
+design-token-language,Markdown,1,52
+design-token-language,Prolog,1,18
+design-token-language,XML,1,2
+design-token-language,total,1228,13420
+do-k8s-agent-vsts,YAML,10,261
+do-k8s-agent-vsts,Python,2,176
+do-k8s-agent-vsts,Bourne Shell,2,67
+do-k8s-agent-vsts,Dockerfile,1,31
+do-k8s-agent-vsts,total,15,535
+arq-internal-gateway,JSON,3,438
+arq-internal-gateway,YAML,8,232
+arq-internal-gateway,C#,7,218
+arq-internal-gateway,MSBuild script,2,23
+arq-internal-gateway,Dockerfile,1,12
+arq-internal-gateway,total,21,923
+sd-flutter-products,Markdown,1,16
+sd-flutter-products,YAML,1,11
+sd-flutter-products,total,2,27
+trn-android-main,Kotlin,297,17808
+trn-android-main,XML,212,17333
+trn-android-main,Groovy,5,229
+trn-android-main,JSON,1,156
+trn-android-main,Bourne Shell,1,129
+trn-android-main,DOS Batch,1,59
+trn-android-main,YAML,1,55
+trn-android-main,Prolog,1,18
+trn-android-main,total,519,35787
+api-cd-configuration-management,Markdown,1,16
+api-cd-configuration-management,total,1,16
+bcc-ms-legalperson,C#,87,3551
+bcc-ms-legalperson,Smalltalk,3,1375
+bcc-ms-legalperson,Protocol Buffers,8,295
+bcc-ms-legalperson,YAML,7,237
+bcc-ms-legalperson,MSBuild script,9,234
+bcc-ms-legalperson,JSON,4,128
+bcc-ms-legalperson,Dockerfile,1,20
+bcc-ms-legalperson,Markdown,1,16
+bcc-ms-legalperson,total,120,5856
+pocs-mongo-cosmosdb,C#,4,130
+pocs-mongo-cosmosdb,JSON,3,47
+pocs-mongo-cosmosdb,MSBuild script,1,9
+pocs-mongo-cosmosdb,total,8,186
+trn-client-channels-api-conventions,YAML,2,85
+trn-client-channels-api-conventions,C#,1,41
+trn-client-channels-api-conventions,XML,1,38
+trn-client-channels-api-conventions,MSBuild script,1,20
+trn-client-channels-api-conventions,Markdown,1,16
+trn-client-channels-api-conventions,total,6,200
+pix-cabine-api,Markdown,1,16
+pix-cabine-api,total,1,16
+do-helm-camunda,YAML,9,271
+do-helm-camunda,Markdown,1,15
+do-helm-camunda,Dockerfile,1,2
+do-helm-camunda,total,11,288
+bcc-ms-onboarding-legalperson,C#,108,5134
+bcc-ms-onboarding-legalperson,Protocol Buffers,10,367
+bcc-ms-onboarding-legalperson,YAML,7,237
+bcc-ms-onboarding-legalperson,MSBuild script,6,182
+bcc-ms-onboarding-legalperson,XML,1,161
+bcc-ms-onboarding-legalperson,JSON,2,39
+bcc-ms-onboarding-legalperson,Dockerfile,1,20
+bcc-ms-onboarding-legalperson,Markdown,1,16
+bcc-ms-onboarding-legalperson,total,136,6156
+bcc-events-ms-legalperson,C#,5,89
+bcc-events-ms-legalperson,YAML,2,61
+bcc-events-ms-legalperson,Markdown,1,16
+bcc-events-ms-legalperson,MSBuild script,1,15
+bcc-events-ms-legalperson,total,9,181
+cad-event-definition,Markdown,1,16
+cad-event-definition,total,1,16
+api-pa-charge-and-benefit,Markdown,1,16
+api-pa-charge-and-benefit,total,1,16
+pa-client-ms-calculation-log,C#,4,81
+pa-client-ms-calculation-log,YAML,2,80
+pa-client-ms-calculation-log,Markdown,1,16
+pa-client-ms-calculation-log,MSBuild script,1,16
+pa-client-ms-calculation-log,total,8,193
+do-vm-agent-vsts,YAML,7,271
+do-vm-agent-vsts,Bourne Shell,3,127
+do-vm-agent-vsts,Markdown,1,16
+do-vm-agent-vsts,total,11,414
+cd-db-posting,Markdown,1,16
+cd-db-posting,total,1,16
+ob-lib-workflows,YAML,1,53
+ob-lib-workflows,Markdown,1,11
+ob-lib-workflows,total,2,64
+do-service-example,C#,12,282
+do-service-example,YAML,7,193
+do-service-example,MSBuild script,7,154
+do-service-example,JSON,2,23
+do-service-example,Dockerfile,1,16
+do-service-example,total,29,668
+trn-svc-config-pts-br,XML,19,5034
+trn-svc-config-pts-br,SQL,19,713
+trn-svc-config-pts-br,Maven,5,342
+trn-svc-config-pts-br,Bourne Shell,2,217
+trn-svc-config-pts-br,DOS Batch,2,148
+trn-svc-config-pts-br,Java,2,80
+trn-svc-config-pts-br,YAML,1,39
+trn-svc-config-pts-br,Markdown,1,16
+trn-svc-config-pts-br,total,51,6589
+cd-tye,YAML,1,47
+cd-tye,Markdown,1,5
+cd-tye,total,2,52
+qa-trn-integrated-tests,Markdown,1,16
+qa-trn-integrated-tests,total,1,16
+ssd.puppet.bi_data_gateway,Puppet,1,15
+ssd.puppet.bi_data_gateway,total,1,15
+test-us-tag,Markdown,1,16
+test-us-tag,total,1,16
+cd-events-dictionary,Markdown,1,16
+cd-events-dictionary,total,1,16
+ob-ms-balance-integration-collector,C#,32,835
+ob-ms-balance-integration-collector,JSON,4,502
+ob-ms-balance-integration-collector,YAML,9,262
+ob-ms-balance-integration-collector,MSBuild script,7,155
+ob-ms-balance-integration-collector,Markdown,1,16
+ob-ms-balance-integration-collector,Dockerfile,1,11
+ob-ms-balance-integration-collector,total,54,1781
+trn-svc-config-pts-mx,XML,7,2998
+trn-svc-config-pts-mx,Maven,5,272
+trn-svc-config-pts-mx,Bourne Shell,2,217
+trn-svc-config-pts-mx,DOS Batch,2,148
+trn-svc-config-pts-mx,Java,2,80
+trn-svc-config-pts-mx,SQL,5,46
+trn-svc-config-pts-mx,YAML,1,39
+trn-svc-config-pts-mx,Markdown,1,16
+trn-svc-config-pts-mx,total,25,3816
+cd-docs,JSON,2,3650
+cd-docs,Markdown,24,913
+cd-docs,YAML,8,237
+cd-docs,HTML,1,32
+cd-docs,JavaScript,1,6
+cd-docs,total,36,4838
+pa-client-operations,C#,29,671
+pa-client-operations,YAML,2,49
+pa-client-operations,MSBuild script,2,35
+pa-client-operations,Markdown,1,16
+pa-client-operations,total,34,771
+trn-svc-cards,XML,12,3443
+trn-svc-cards,Maven,5,272
+trn-svc-cards,Bourne Shell,2,217
+trn-svc-cards,DOS Batch,2,148
+trn-svc-cards,Java,2,80
+trn-svc-cards,YAML,1,53
+trn-svc-cards,Markdown,1,16
+trn-svc-cards,SQL,2,7
+trn-svc-cards,total,27,4236
+api-shared-flows,Markdown,1,16
+api-shared-flows,total,1,16
+ob-ms-prospect.renato.ulrich,Smalltalk,31,16328
+ob-ms-prospect.renato.ulrich,C#,256,12448
+ob-ms-prospect.renato.ulrich,JSON,9,1524
+ob-ms-prospect.renato.ulrich,YAML,9,314
+ob-ms-prospect.renato.ulrich,MSBuild script,6,203
+ob-ms-prospect.renato.ulrich,Dockerfile,2,31
+ob-ms-prospect.renato.ulrich,XML,1,30
+ob-ms-prospect.renato.ulrich,Markdown,1,20
+ob-ms-prospect.renato.ulrich,total,315,30898
+qa-web-regresion-tests,Java,42,2643
+qa-web-regresion-tests,Cucumber,10,988
+qa-web-regresion-tests,XML,8,224
+qa-web-regresion-tests,Maven,1,100
+qa-web-regresion-tests,Markdown,1,27
+qa-web-regresion-tests,JSON,1,1
+qa-web-regresion-tests,total,63,3983
+qa-tb-peru-integrated-tests,C#,6,246
+qa-tb-peru-integrated-tests,Markdown,1,16
+qa-tb-peru-integrated-tests,MSBuild script,1,15
+qa-tb-peru-integrated-tests,total,8,277
+campaigns,YAML,90,2888
+campaigns,Markdown,1,10
+campaigns,total,91,2898
+ob-ms-keynua,C#,60,2143
+ob-ms-keynua,YAML,9,322
+ob-ms-keynua,MSBuild script,7,145
+ob-ms-keynua,JSON,5,86
+ob-ms-keynua,Markdown,2,42
+ob-ms-keynua,Dockerfile,1,10
+ob-ms-keynua,total,84,2748
+arq-lib-web-api,C#,12,363
+arq-lib-web-api,YAML,2,49
+arq-lib-web-api,MSBuild script,1,18
+arq-lib-web-api,Markdown,1,2
+arq-lib-web-api,total,16,432
+cad-client-ms-otp-notification,C#,9,278
+cad-client-ms-otp-notification,XML,1,179
+cad-client-ms-otp-notification,Smalltalk,1,80
+cad-client-ms-otp-notification,YAML,2,55
+cad-client-ms-otp-notification,MSBuild script,2,39
+cad-client-ms-otp-notification,Markdown,1,16
+cad-client-ms-otp-notification,total,16,647
+ob-ms-ob-bff,C#,404,15531
+ob-ms-ob-bff,JSON,4,508
+ob-ms-ob-bff,YAML,9,283
+ob-ms-ob-bff,MSBuild script,7,194
+ob-ms-ob-bff,Markdown,1,16
+ob-ms-ob-bff,Dockerfile,1,11
+ob-ms-ob-bff,total,426,16543
+do-repository-creator,YAML,9,151
+do-repository-creator,Python,6,135
+do-repository-creator,Markdown,1,37
+do-repository-creator,total,16,323
+pa-jobs,YAML,10,331
+pa-jobs,C#,9,274
+pa-jobs,JSON,5,93
+pa-jobs,MSBuild script,3,40
+pa-jobs,Markdown,1,16
+pa-jobs,Dockerfile,1,9
+pa-jobs,total,29,763
+qa-cards-embossing-integrated-tests,C#,9,702
+qa-cards-embossing-integrated-tests,MSBuild script,1,18
+qa-cards-embossing-integrated-tests,Markdown,1,16
+qa-cards-embossing-integrated-tests,total,11,736
+qa-test-web-trn,Markdown,1,16
+qa-test-web-trn,total,1,16
+api-pa-product,Markdown,1,16
+api-pa-product,total,1,16
+do-tf-azure-business-intelligence,YAML,1,91
+do-tf-azure-business-intelligence,Markdown,1,16
+do-tf-azure-business-intelligence,total,2,107
+ob-web-utils,TypeScript,242,19053
+ob-web-utils,JavaScript,158,7222
+ob-web-utils,Sass,59,3225
+ob-web-utils,JSON,17,2072
+ob-web-utils,JSX,27,2063
+ob-web-utils,YAML,1,87
+ob-web-utils,Markdown,1,40
+ob-web-utils,HTML,1,17
+ob-web-utils,total,506,33779
+bcc-backend,C#,347,17662
+bcc-backend,SQL,2,1370
+bcc-backend,MSBuild script,37,652
+bcc-backend,Smalltalk,1,383
+bcc-backend,JSON,10,173
+bcc-backend,Protocol Buffers,7,172
+bcc-backend,Razor,2,34
+bcc-backend,Dockerfile,2,33
+bcc-backend,Markdown,2,32
+bcc-backend,YAML,1,27
+bcc-backend,HTML,2,26
+bcc-backend,CSS,1,24
+bcc-backend,total,414,20588
+svc-mfe-payment,TypeScript,57,3296
+svc-mfe-payment,JSON,11,946
+svc-mfe-payment,YAML,11,341
+svc-mfe-payment,JavaScript,10,237
+svc-mfe-payment,Sass,4,189
+svc-mfe-payment,Dockerfile,1,7
+svc-mfe-payment,Markdown,1,1
+svc-mfe-payment,total,95,5017
+do-ansible-opendj,YAML,26,652
+do-ansible-opendj,Python,5,198
+do-ansible-opendj,Markdown,3,77
+do-ansible-opendj,Bourne Shell,3,64
+do-ansible-opendj,total,37,991
+framework-testing,C#,21,600
+framework-testing,YAML,2,55
+framework-testing,MSBuild script,3,51
+framework-testing,Markdown,1,38
+framework-testing,total,27,744
+cd-lib-configuration,C#,21,534
+cd-lib-configuration,YAML,2,83
+cd-lib-configuration,MSBuild script,4,74
+cd-lib-configuration,Markdown,1,16
+cd-lib-configuration,JSON,1,5
+cd-lib-configuration,total,29,712
+do-poc-docker,YAML,2,46
+do-poc-docker,Markdown,1,18
+do-poc-docker,Dockerfile,1,15
+do-poc-docker,Bourne Shell,1,3
+do-poc-docker,total,5,82
+bcc-gp-web-main,JSON,9,22649
+bcc-gp-web-main,JSX,91,12960
+bcc-gp-web-main,JavaScript,105,9188
+bcc-gp-web-main,CSS,29,7715
+bcc-gp-web-main,Sass,16,1871
+bcc-gp-web-main,YAML,11,327
+bcc-gp-web-main,TypeScript,7,193
+bcc-gp-web-main,HTML,1,24
+bcc-gp-web-main,Markdown,1,16
+bcc-gp-web-main,Dockerfile,1,7
+bcc-gp-web-main,total,271,54950
+cd-lib-cards-core,C#,41,1695
+cd-lib-cards-core,Smalltalk,2,78
+cd-lib-cards-core,MSBuild script,5,73
+cd-lib-cards-core,YAML,2,51
+cd-lib-cards-core,Markdown,1,16
+cd-lib-cards-core,total,51,1913
+ob-lib-onboarding-events,C#,138,2433
+ob-lib-onboarding-events,YAML,2,55
+ob-lib-onboarding-events,MSBuild script,1,27
+ob-lib-onboarding-events,Markdown,1,16
+ob-lib-onboarding-events,total,142,2531
+bcc-utils-dotnet-keyvault,C#,2,124
+bcc-utils-dotnet-keyvault,YAML,2,55
+bcc-utils-dotnet-keyvault,MSBuild script,1,20
+bcc-utils-dotnet-keyvault,Markdown,1,16
+bcc-utils-dotnet-keyvault,total,6,215
+cd-ms-posting-chargeback,C#,67,2002
+cd-ms-posting-chargeback,YAML,9,288
+cd-ms-posting-chargeback,JSON,4,165
+cd-ms-posting-chargeback,MSBuild script,4,66
+cd-ms-posting-chargeback,Markdown,1,16
+cd-ms-posting-chargeback,Dockerfile,1,9
+cd-ms-posting-chargeback,Smalltalk,1,1
+cd-ms-posting-chargeback,total,87,2547
+bcc-gp-ms-filesmanager,C#,228,14569
+bcc-gp-ms-filesmanager,JSON,8,527
+bcc-gp-ms-filesmanager,MSBuild script,11,337
+bcc-gp-ms-filesmanager,Smalltalk,1,259
+bcc-gp-ms-filesmanager,YAML,9,236
+bcc-gp-ms-filesmanager,Markdown,2,35
+bcc-gp-ms-filesmanager,Dockerfile,1,11
+bcc-gp-ms-filesmanager,total,260,15974
+ob-ms-FavoriteOtherBanks-Integration-collector,C#,36,1001
+ob-ms-FavoriteOtherBanks-Integration-collector,JSON,3,471
+ob-ms-FavoriteOtherBanks-Integration-collector,MSBuild script,5,64
+ob-ms-FavoriteOtherBanks-Integration-collector,Markdown,1,16
+ob-ms-FavoriteOtherBanks-Integration-collector,total,45,1552
+cad-ms-otp-notification,C#,47,2578
+cad-ms-otp-notification,YAML,8,278
+cad-ms-otp-notification,MSBuild script,8,229
+cad-ms-otp-notification,JSON,4,98
+cad-ms-otp-notification,Markdown,2,54
+cad-ms-otp-notification,Dockerfile,1,11
+cad-ms-otp-notification,total,70,3248
+saas-ms-payment,Markdown,1,16
+saas-ms-payment,total,1,16
+config-repo-production,YAML,110,7118
+config-repo-production,total,110,7118
+ob-ms-validate-internal-list,C#,88,2979
+ob-ms-validate-internal-list,JSON,3,358
+ob-ms-validate-internal-list,YAML,9,282
+ob-ms-validate-internal-list,MSBuild script,6,100
+ob-ms-validate-internal-list,Markdown,2,42
+ob-ms-validate-internal-list,Dockerfile,1,13
+ob-ms-validate-internal-list,total,109,3774
+api-cd-embossment,Markdown,1,16
+api-cd-embossment,total,1,16
+cd-ms-jpos-tecban,Java,10,434
+cd-ms-jpos-tecban,XML,10,327
+cd-ms-jpos-tecban,YAML,9,282
+cd-ms-jpos-tecban,Maven,1,185
+cd-ms-jpos-tecban,Markdown,1,27
+cd-ms-jpos-tecban,total,31,1255
+trn-android-authentication,JSON,1,17826
+trn-android-authentication,XML,40,2059
+trn-android-authentication,Kotlin,22,1883
+trn-android-authentication,Groovy,4,148
+trn-android-authentication,Bourne Shell,1,129
+trn-android-authentication,DOS Batch,1,59
+trn-android-authentication,YAML,1,52
+trn-android-authentication,Prolog,1,18
+trn-android-authentication,Markdown,1,16
+trn-android-authentication,total,72,22190
+cad-ms-voice-notification,C#,45,1709
+cad-ms-voice-notification,YAML,9,270
+cad-ms-voice-notification,MSBuild script,11,249
+cad-ms-voice-notification,JSON,4,113
+cad-ms-voice-notification,Markdown,2,44
+cad-ms-voice-notification,Dockerfile,1,22
+cad-ms-voice-notification,total,72,2407
+bcc-grpc-clients-template,Markdown,1,16
+bcc-grpc-clients-template,total,1,16
+do-tf-module-elasticsearch,Markdown,1,16
+do-tf-module-elasticsearch,total,1,16
+cd-iso-hex2xml,XML,1,454
+cd-iso-hex2xml,Maven,1,126
+cd-iso-hex2xml,Java,2,74
+cd-iso-hex2xml,DTD,1,23
+cd-iso-hex2xml,Markdown,1,21
+cd-iso-hex2xml,total,6,698
+ssd.puppet.hieradata,YAML,1,9
+ssd.puppet.hieradata,total,1,9
+pix-chave-reivindicacao-pendentes-worker,Markdown,1,16
+pix-chave-reivindicacao-pendentes-worker,total,1,16
+trn-lib-deserialize-header,YAML,2,80
+trn-lib-deserialize-header,C#,4,66
+trn-lib-deserialize-header,Markdown,1,41
+trn-lib-deserialize-header,MSBuild script,1,14
+trn-lib-deserialize-header,total,8,201
+pa-ms-operation,C#,215,9985
+pa-ms-operation,JSON,13,513
+pa-ms-operation,YAML,10,291
+pa-ms-operation,MSBuild script,7,199
+pa-ms-operation,Markdown,1,20
+pa-ms-operation,DOS Batch,5,13
+pa-ms-operation,Dockerfile,1,11
+pa-ms-operation,PowerShell,1,3
+pa-ms-operation,total,253,11035
+do-docker-node,Markdown,1,16
+do-docker-node,total,1,16
+arq-lib-common-remoteconfig,JavaScript,13,16570
+arq-lib-common-remoteconfig,CSS,7,12666
+arq-lib-common-remoteconfig,C#,7,176
+arq-lib-common-remoteconfig,Razor,7,96
+arq-lib-common-remoteconfig,JSON,6,89
+arq-lib-common-remoteconfig,YAML,3,60
+arq-lib-common-remoteconfig,MSBuild script,3,30
+arq-lib-common-remoteconfig,Markdown,1,18
+arq-lib-common-remoteconfig,total,47,29705
+arq-partners-gateway,C#,7,244
+arq-partners-gateway,YAML,8,234
+arq-partners-gateway,JSON,3,134
+arq-partners-gateway,MSBuild script,2,23
+arq-partners-gateway,Dockerfile,1,12
+arq-partners-gateway,total,21,647
+bcc-ms-associates,C#,173,7472
+bcc-ms-associates,Smalltalk,3,1454
+bcc-ms-associates,YAML,7,265
+bcc-ms-associates,MSBuild script,6,221
+bcc-ms-associates,JSON,5,142
+bcc-ms-associates,XML,1,100
+bcc-ms-associates,Protocol Buffers,5,63
+bcc-ms-associates,Markdown,2,48
+bcc-ms-associates,Dockerfile,1,10
+bcc-ms-associates,total,203,9775
+dev-pipeline-poc,Markdown,1,16
+dev-pipeline-poc,total,1,16
+pipelines-templates,YAML,32,1091
+pipelines-templates,Markdown,3,192
+pipelines-templates,total,35,1283
+pa-client-ms-extract,C#,16,243
+pa-client-ms-extract,YAML,2,50
+pa-client-ms-extract,Markdown,1,16
+pa-client-ms-extract,MSBuild script,1,11
+pa-client-ms-extract,total,20,320
+bcc-gp-ms-associates,C#,224,11958
+bcc-gp-ms-associates,Smalltalk,1,503
+bcc-gp-ms-associates,JSON,6,457
+bcc-gp-ms-associates,MSBuild script,11,393
+bcc-gp-ms-associates,YAML,9,233
+bcc-gp-ms-associates,Markdown,2,35
+bcc-gp-ms-associates,Dockerfile,1,11
+bcc-gp-ms-associates,total,254,13590
+ob-ms-cards-integration-collector,Markdown,1,16
+ob-ms-cards-integration-collector,total,1,16
+pa-client-ms-organizational-structure,C#,31,712
+pa-client-ms-organizational-structure,YAML,2,68
+pa-client-ms-organizational-structure,MSBuild script,2,37
+pa-client-ms-organizational-structure,Markdown,1,17
+pa-client-ms-organizational-structure,total,36,834
+pa-events-charges-and-benefits,C#,56,878
+pa-events-charges-and-benefits,YAML,2,71
+pa-events-charges-and-benefits,MSBuild script,1,14
+pa-events-charges-and-benefits,Markdown,1,1
+pa-events-charges-and-benefits,total,60,964
+crm-qa,YAML,76,5472
+crm-qa,Markdown,1,19
+crm-qa,total,77,5491
+pix-qrc-token-api,Markdown,1,16
+pix-qrc-token-api,total,1,16
+cd-qa-integration-configuration-management,JSON,3,1218
+cd-qa-integration-configuration-management,Markdown,1,16
+cd-qa-integration-configuration-management,total,4,1234
+qa-interopTransfer-integrated-tests,Markdown,1,16
+qa-interopTransfer-integrated-tests,total,1,16
+qa-pampas-person-integrated-tests,C#,8,1042
+qa-pampas-person-integrated-tests,MSBuild script,1,31
+qa-pampas-person-integrated-tests,Markdown,1,16
+qa-pampas-person-integrated-tests,JSON,1,15
+qa-pampas-person-integrated-tests,total,11,1104
+api-trn-plan,Markdown,1,16
+api-trn-plan,total,1,16
+api-NOUSAR-openapi-product,Markdown,1,16
+api-NOUSAR-openapi-product,total,1,16
+crd-ms-loan-sim,C#,191,8183
+crd-ms-loan-sim,YAML,12,352
+crd-ms-loan-sim,JSON,9,348
+crd-ms-loan-sim,MSBuild script,16,324
+crd-ms-loan-sim,liquid,3,215
+crd-ms-loan-sim,Smalltalk,1,47
+crd-ms-loan-sim,Markdown,2,36
+crd-ms-loan-sim,Dockerfile,1,10
+crd-ms-loan-sim,total,235,9515
+pix-spi-pagador-response-worker,Markdown,1,16
+pix-spi-pagador-response-worker,total,1,16
+pa-client-ms-charges-and-benefits,C#,97,1123
+pa-client-ms-charges-and-benefits,YAML,2,80
+pa-client-ms-charges-and-benefits,XML,1,32
+pa-client-ms-charges-and-benefits,MSBuild script,1,26
+pa-client-ms-charges-and-benefits,Markdown,1,17
+pa-client-ms-charges-and-benefits,total,102,1278
+cd-ms-presentment-history,C#,112,4309
+cd-ms-presentment-history,JSON,9,1619
+cd-ms-presentment-history,YAML,9,284
+cd-ms-presentment-history,MSBuild script,8,214
+cd-ms-presentment-history,Smalltalk,1,94
+cd-ms-presentment-history,Markdown,1,16
+cd-ms-presentment-history,total,140,6536
+pix-bacen-roteador-worker,Markdown,1,16
+pix-bacen-roteador-worker,total,1,16
+ssd.terraform.apigee,YAML,1,69
+ssd.terraform.apigee,total,1,69
+do-ansible-vm,YAML,9,130
+do-ansible-vm,total,9,130
+sd-flutter-plugins,Dart,5,84
+sd-flutter-plugins,YAML,1,15
+sd-flutter-plugins,Markdown,1,10
+sd-flutter-plugins,total,7,109
+px-ms-pix-core,C#,149,6447
+px-ms-pix-core,YAML,9,243
+px-ms-pix-core,JSON,4,215
+px-ms-pix-core,MSBuild script,10,210
+px-ms-pix-core,Markdown,2,33
+px-ms-pix-core,Dockerfile,1,11
+px-ms-pix-core,PowerShell,1,11
+px-ms-pix-core,total,176,7170
+arq-internet-gateway,JSON,3,364
+arq-internet-gateway,C#,7,306
+arq-internet-gateway,YAML,8,239
+arq-internet-gateway,MSBuild script,2,23
+arq-internet-gateway,Dockerfile,1,12
+arq-internet-gateway,total,21,944
+do-ansible-redis,YAML,21,409
+do-ansible-redis,Markdown,2,42
+do-ansible-redis,Bourne Shell,2,22
+do-ansible-redis,total,25,473
+saas-ms-customer,C#,10,238
+saas-ms-customer,YAML,1,57
+saas-ms-customer,MSBuild script,5,50
+saas-ms-customer,JSON,5,37
+saas-ms-customer,Markdown,1,16
+saas-ms-customer,Dockerfile,1,11
+saas-ms-customer,total,23,409
+devops.wiki,Markdown,26,970
+devops.wiki,total,26,970
+cad-ms-whatsapp-notification,C#,46,1752
+cad-ms-whatsapp-notification,YAML,9,270
+cad-ms-whatsapp-notification,MSBuild script,11,256
+cad-ms-whatsapp-notification,JSON,4,113
+cad-ms-whatsapp-notification,Markdown,2,44
+cad-ms-whatsapp-notification,Dockerfile,1,22
+cad-ms-whatsapp-notification,total,73,2457
+config-repo-development,YAML,123,7400
+config-repo-development,Markdown,1,16
+config-repo-development,total,124,7416
+cd-ms-transaction-history,C#,27,1136
+cd-ms-transaction-history,YAML,8,288
+cd-ms-transaction-history,MSBuild script,4,54
+cd-ms-transaction-history,JSON,3,36
+cd-ms-transaction-history,Dockerfile,1,9
+cd-ms-transaction-history,Markdown,1,2
+cd-ms-transaction-history,Smalltalk,1,1
+cd-ms-transaction-history,total,45,1526
+qa-automation-rest-api-cards-management,JSON,3,64186
+qa-automation-rest-api-cards-management,Markdown,1,16
+qa-automation-rest-api-cards-management,total,4,64202
+qa-automation-rest-api-quantum,JSON,4,141031
+qa-automation-rest-api-quantum,total,4,141031
+trn-svc-config-pts-global,YAML,4,9577
+trn-svc-config-pts-global,Markdown,2,17
+trn-svc-config-pts-global,HTML,1,10
+trn-svc-config-pts-global,total,7,9604
+ssd.puppet.profiles,Puppet,20,218
+ssd.puppet.profiles,total,20,218
+arq-cli-web-tool,CSS,3,3411
+arq-cli-web-tool,TypeScript,34,720
+arq-cli-web-tool,YAML,19,644
+arq-cli-web-tool,JSON,18,557
+arq-cli-web-tool,JavaScript,16,480
+arq-cli-web-tool,Markdown,4,89
+arq-cli-web-tool,HTML,1,53
+arq-cli-web-tool,Dockerfile,2,14
+arq-cli-web-tool,total,97,5968
+pa-client-ms-exchange-rates,C#,11,173
+pa-client-ms-exchange-rates,YAML,2,53
+pa-client-ms-exchange-rates,MSBuild script,2,33
+pa-client-ms-exchange-rates,Markdown,1,16
+pa-client-ms-exchange-rates,total,16,275
+bcc-ms-payments,C#,196,9956
+bcc-ms-payments,Smalltalk,1,632
+bcc-ms-payments,YAML,7,229
+bcc-ms-payments,MSBuild script,6,202
+bcc-ms-payments,JSON,4,173
+bcc-ms-payments,Protocol Buffers,7,114
+bcc-ms-payments,XML,1,97
+bcc-ms-payments,Markdown,1,16
+bcc-ms-payments,Dockerfile,1,10
+bcc-ms-payments,total,224,11429
+qa-automation-rest-api-REFACTOR,Markdown,1,16
+qa-automation-rest-api-REFACTOR,total,1,16
+trn-svc-config-pts-co,XML,9,1246
+trn-svc-config-pts-co,Maven,5,272
+trn-svc-config-pts-co,Bourne Shell,2,217
+trn-svc-config-pts-co,DOS Batch,2,148
+trn-svc-config-pts-co,Java,3,81
+trn-svc-config-pts-co,YAML,1,39
+trn-svc-config-pts-co,SQL,2,27
+trn-svc-config-pts-co,Markdown,1,17
+trn-svc-config-pts-co,total,25,2047
+pa-events-garnishments,C#,8,150
+pa-events-garnishments,YAML,2,70
+pa-events-garnishments,Markdown,1,16
+pa-events-garnishments,MSBuild script,1,14
+pa-events-garnishments,total,12,250
+ssd.do.pipelines-templates,YAML,24,589
+ssd.do.pipelines-templates,Markdown,1,33
+ssd.do.pipelines-templates,total,25,622
+cad-api-definitions,YAML,7,3483
+cad-api-definitions,JSON,1,1192
+cad-api-definitions,Markdown,1,16
+cad-api-definitions,total,9,4691
+trn-svc-billpay,XML,33,1949
+trn-svc-billpay,Maven,5,272
+trn-svc-billpay,Bourne Shell,2,217
+trn-svc-billpay,DOS Batch,2,148
+trn-svc-billpay,Java,2,80
+trn-svc-billpay,YAML,1,53
+trn-svc-billpay,Markdown,2,17
+trn-svc-billpay,SQL,1,1
+trn-svc-billpay,total,48,2737
+config-repo-preproduction,YAML,124,8204
+config-repo-preproduction,Markdown,1,6
+config-repo-preproduction,total,125,8210
+test-acr,JSON,2,371
+test-acr,YAML,3,89
+test-acr,Markdown,1,22
+test-acr,JavaScript,1,10
+test-acr,Dockerfile,1,7
+test-acr,total,8,499
+transmit-directory,Bourne Shell,3,172
+transmit-directory,Maven,1,74
+transmit-directory,Dockerfile,1,31
+transmit-directory,Markdown,1,24
+transmit-directory,YAML,1,11
+transmit-directory,make,1,1
+transmit-directory,total,8,313
+pix-bacen-download-worker,Markdown,1,16
+pix-bacen-download-worker,total,1,16
+api-NOUSAR-router,Markdown,1,16
+api-NOUSAR-router,total,1,16
+qa-automation-rest-api-mapuches,Markdown,1,16
+qa-automation-rest-api-mapuches,total,1,16
+arq-lib-superdigital-encryption,C#,29,752
+arq-lib-superdigital-encryption,YAML,2,87
+arq-lib-superdigital-encryption,MSBuild script,4,63
+arq-lib-superdigital-encryption,Markdown,1,53
+arq-lib-superdigital-encryption,JSON,1,8
+arq-lib-superdigital-encryption,total,37,963
+api-ob-user,Markdown,1,16
+api-ob-user,total,1,16
+api-NOUSAR-openapi-account-management,Markdown,1,16
+api-NOUSAR-openapi-account-management,total,1,16
+do-poc-android2,Markdown,1,16
+do-poc-android2,total,1,16
+pa-ms-operations-history,C#,95,4295
+pa-ms-operations-history,YAML,9,252
+pa-ms-operations-history,JSON,7,142
+pa-ms-operations-history,MSBuild script,7,119
+pa-ms-operations-history,Markdown,1,16
+pa-ms-operations-history,Dockerfile,1,11
+pa-ms-operations-history,DOS Batch,1,1
+pa-ms-operations-history,total,121,4836
+bcc-qa-integration-filesmanager,Markdown,1,16
+bcc-qa-integration-filesmanager,total,1,16
+api-cad-userprofile-profile,Markdown,1,16
+api-cad-userprofile-profile,total,1,16
+bcc-web-frontend,JSON,3,17146
+bcc-web-frontend,JSX,63,9722
+bcc-web-frontend,CSS,25,5418
+bcc-web-frontend,JavaScript,33,2309
+bcc-web-frontend,YAML,7,219
+bcc-web-frontend,HTML,1,24
+bcc-web-frontend,Dockerfile,1,13
+bcc-web-frontend,total,133,34851
+pa-events-organization-structure,YAML,2,70
+pa-events-organization-structure,C#,5,70
+pa-events-organization-structure,Markdown,1,16
+pa-events-organization-structure,MSBuild script,1,14
+pa-events-organization-structure,total,9,170
+ssd.puppet.roles,Puppet,9,49
+ssd.puppet.roles,total,9,49
+bcc-gp-web-legalperson-onboarding,TypeScript,76,3839
+bcc-gp-web-legalperson-onboarding,JSON,16,2914
+bcc-gp-web-legalperson-onboarding,Sass,9,1355
+bcc-gp-web-legalperson-onboarding,JavaScript,14,611
+bcc-gp-web-legalperson-onboarding,YAML,11,340
+bcc-gp-web-legalperson-onboarding,Dockerfile,1,7
+bcc-gp-web-legalperson-onboarding,Markdown,1,1
+bcc-gp-web-legalperson-onboarding,total,128,9067
+devops-backlog,YAML,1,117
+devops-backlog,Python,1,66
+devops-backlog,total,2,183
+ob-client-ms-prospect,C#,10,225
+ob-client-ms-prospect,XML,1,83
+ob-client-ms-prospect,YAML,2,55
+ob-client-ms-prospect,MSBuild script,2,40
+ob-client-ms-prospect,Markdown,1,16
+ob-client-ms-prospect,total,16,419
+qa-mobile-regression-tests,HTML,27,15091
+qa-mobile-regression-tests,XML,112,2851
+qa-mobile-regression-tests,Java,35,1436
+qa-mobile-regression-tests,CSS,2,264
+qa-mobile-regression-tests,Maven,1,170
+qa-mobile-regression-tests,JavaScript,2,98
+qa-mobile-regression-tests,Markdown,1,16
+qa-mobile-regression-tests,total,180,19926
+pa-qa-integration-charges-and-benefits,JSON,4,4091
+pa-qa-integration-charges-and-benefits,Markdown,1,16
+pa-qa-integration-charges-and-benefits,total,5,4107
+do-ansible-cassandra,YAML,7,131
+do-ansible-cassandra,Python,2,47
+do-ansible-cassandra,Markdown,1,28
+do-ansible-cassandra,Bourne Shell,1,27
+do-ansible-cassandra,total,11,233
+api-cad-otp-notification,Markdown,1,16
+api-cad-otp-notification,total,1,16
+do-tf-azure-cache,YAML,1,97
+do-tf-azure-cache,Markdown,1,16
+do-tf-azure-cache,total,2,113
+ob-ms-prospect,Smalltalk,31,16328
+ob-ms-prospect,C#,256,12449
+ob-ms-prospect,JSON,7,814
+ob-ms-prospect,YAML,9,314
+ob-ms-prospect,MSBuild script,6,203
+ob-ms-prospect,Dockerfile,2,31
+ob-ms-prospect,XML,1,30
+ob-ms-prospect,Markdown,1,20
+ob-ms-prospect,total,313,30189
+SDI.Apigee.Installation.Templates,YAML,52,1782
+SDI.Apigee.Installation.Templates,Bourne Shell,3,1476
+SDI.Apigee.Installation.Templates,JSON,4,54
+SDI.Apigee.Installation.Templates,Markdown,3,49
+SDI.Apigee.Installation.Templates,total,62,3361
+pm-ms-acquiring-MIT,C#,79,2450
+pm-ms-acquiring-MIT,JSON,13,466
+pm-ms-acquiring-MIT,YAML,10,287
+pm-ms-acquiring-MIT,MSBuild script,9,276
+pm-ms-acquiring-MIT,Markdown,1,16
+pm-ms-acquiring-MIT,Dockerfile,1,9
+pm-ms-acquiring-MIT,total,113,3504
+qa_automation_rest_api_transaction_broker,Markdown,1,16
+qa_automation_rest_api_transaction_broker,total,1,16
+bcc-events-ms-filesmanager,C#,13,178
+bcc-events-ms-filesmanager,YAML,2,60
+bcc-events-ms-filesmanager,Markdown,1,16
+bcc-events-ms-filesmanager,MSBuild script,1,14
+bcc-events-ms-filesmanager,total,17,268
+arq-lib-common-tracer,C#,11,387
+arq-lib-common-tracer,YAML,3,64
+arq-lib-common-tracer,Markdown,1,36
+arq-lib-common-tracer,JSON,3,35
+arq-lib-common-tracer,MSBuild script,3,32
+arq-lib-common-tracer,total,21,554
+crm,YAML,81,2456
+crm,total,81,2456
+trn-ms-lock,C#,25,828
+trn-ms-lock,YAML,10,287
+trn-ms-lock,MSBuild script,11,221
+trn-ms-lock,JSON,5,93
+trn-ms-lock,Markdown,2,42
+trn-ms-lock,Dockerfile,2,20
+trn-ms-lock,total,55,1491
+qa-lake-gateway,YAML,9,248
+qa-lake-gateway,C#,4,215
+qa-lake-gateway,JSON,4,115
+qa-lake-gateway,Markdown,1,32
+qa-lake-gateway,MSBuild script,1,24
+qa-lake-gateway,GraphQL,1,9
+qa-lake-gateway,total,20,643
+bcc-ms-notifier,C#,50,1475
+bcc-ms-notifier,YAML,7,223
+bcc-ms-notifier,MSBuild script,6,180
+bcc-ms-notifier,XML,1,106
+bcc-ms-notifier,JSON,4,102
+bcc-ms-notifier,Razor,6,68
+bcc-ms-notifier,Markdown,2,44
+bcc-ms-notifier,Protocol Buffers,3,39
+bcc-ms-notifier,Dockerfile,1,10
+bcc-ms-notifier,total,80,2247
+sd-flutter-design-system,Markdown,1,16
+sd-flutter-design-system,total,1,16
+ob-ms-person-integration-collector,C#,35,955
+ob-ms-person-integration-collector,JSON,3,479
+ob-ms-person-integration-collector,YAML,9,262
+ob-ms-person-integration-collector,MSBuild script,8,168
+ob-ms-person-integration-collector,Markdown,1,16
+ob-ms-person-integration-collector,Dockerfile,1,11
+ob-ms-person-integration-collector,total,57,1891
+api-NOUSAR-sysapi-usersAccountProvider-v1,Markdown,1,16
+api-NOUSAR-sysapi-usersAccountProvider-v1,total,1,16
+do-helm-kafka-topics-ui,YAML,8,205
+do-helm-kafka-topics-ui,Markdown,1,66
+do-helm-kafka-topics-ui,Dockerfile,1,11
+do-helm-kafka-topics-ui,total,10,282
+pa-ms-exchange-rates,C#,94,5540
+pa-ms-exchange-rates,JSON,11,1687
+pa-ms-exchange-rates,YAML,8,244
+pa-ms-exchange-rates,Cucumber,3,153
+pa-ms-exchange-rates,MSBuild script,8,152
+pa-ms-exchange-rates,Markdown,1,16
+pa-ms-exchange-rates,Dockerfile,1,11
+pa-ms-exchange-rates,DOS Batch,1,1
+pa-ms-exchange-rates,total,127,7804
+config-repo-qa,YAML,123,6841
+config-repo-qa,Markdown,1,16
+config-repo-qa,total,124,6857
+trn-svc-config-pts-uy,Maven,5,272
+trn-svc-config-pts-uy,Bourne Shell,3,219
+trn-svc-config-pts-uy,DOS Batch,2,148
+trn-svc-config-pts-uy,XML,6,113
+trn-svc-config-pts-uy,YAML,1,39
+trn-svc-config-pts-uy,Markdown,1,16
+trn-svc-config-pts-uy,Java,1,4
+trn-svc-config-pts-uy,SQL,1,1
+trn-svc-config-pts-uy,total,20,812
+arq-oauth-server,CSS,16,13891
+arq-oauth-server,C#,245,11261
+arq-oauth-server,JSON,18,10628
+arq-oauth-server,Razor,112,6182
+arq-oauth-server,Sass,111,5642
+arq-oauth-server,Smalltalk,4,2011
+arq-oauth-server,JavaScript,23,1257
+arq-oauth-server,YAML,19,620
+arq-oauth-server,MSBuild script,7,263
+arq-oauth-server,Dockerfile,3,45
+arq-oauth-server,total,558,51800
+san-auth-backend,Java,74,3508
+san-auth-backend,Groovy,2,131
+san-auth-backend,Bourne Shell,1,129
+san-auth-backend,YAML,2,100
+san-auth-backend,DOS Batch,1,74
+san-auth-backend,Markdown,1,41
+san-auth-backend,SQL,3,37
+san-auth-backend,Bourne Again Shell,1,14
+san-auth-backend,XML,1,14
+san-auth-backend,HTML,1,13
+san-auth-backend,Dockerfile,1,6
+san-auth-backend,total,88,4067
+ob-web-mock,JSON,62,6698
+ob-web-mock,JavaScript,61,2003
+ob-web-mock,HTML,1,567
+ob-web-mock,YAML,7,223
+ob-web-mock,Markdown,3,120
+ob-web-mock,Dockerfile,1,7
+ob-web-mock,total,135,9618
+ssd.do.pipelines-agents,YAML,7,253
+ssd.do.pipelines-agents,Bourne Shell,1,68
+ssd.do.pipelines-agents,Dockerfile,1,44
+ssd.do.pipelines-agents,Markdown,1,3
+ssd.do.pipelines-agents,total,10,368
+arq-ms-edi-colombia,Java,13,338
+arq-ms-edi-colombia,Bourne Shell,1,126
+arq-ms-edi-colombia,YAML,4,70
+arq-ms-edi-colombia,DOS Batch,1,66
+arq-ms-edi-colombia,Groovy,2,53
+arq-ms-edi-colombia,Markdown,1,24
+arq-ms-edi-colombia,total,22,677
+ob-events-FavoriteTransferBetweenSuper-integration,C#,7,95
+ob-events-FavoriteTransferBetweenSuper-integration,YAML,2,81
+ob-events-FavoriteTransferBetweenSuper-integration,Markdown,1,16
+ob-events-FavoriteTransferBetweenSuper-integration,MSBuild script,1,9
+ob-events-FavoriteTransferBetweenSuper-integration,total,11,201
+ob-ms-fullfilment,C#,42,1172
+ob-ms-fullfilment,YAML,9,246
+ob-ms-fullfilment,MSBuild script,5,151
+ob-ms-fullfilment,JSON,3,75
+ob-ms-fullfilment,XML,1,53
+ob-ms-fullfilment,Markdown,2,35
+ob-ms-fullfilment,Dockerfile,2,30
+ob-ms-fullfilment,total,64,1762
+ob-ms-digital-signature,C#,149,6014
+ob-ms-digital-signature,JSON,5,796
+ob-ms-digital-signature,YAML,9,268
+ob-ms-digital-signature,MSBuild script,8,206
+ob-ms-digital-signature,Markdown,1,16
+ob-ms-digital-signature,Dockerfile,1,12
+ob-ms-digital-signature,total,173,7312
+pa-events-products,C#,43,630
+pa-events-products,YAML,2,70
+pa-events-products,Markdown,1,16
+pa-events-products,MSBuild script,1,12
+pa-events-products,total,47,728

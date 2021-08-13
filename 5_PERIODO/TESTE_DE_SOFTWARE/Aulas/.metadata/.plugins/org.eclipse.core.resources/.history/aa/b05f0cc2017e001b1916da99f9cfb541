@@ -1,0 +1,22 @@
+package exemplo1;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import static org.mockito.Mockito.*;
+
+import org.junit.jupiter.api.Test;
+
+class PessoaDAOTest {
+
+	@Test
+	void testPessoaExiste() {
+		//criar um objeto mockado
+		var rhServiceMock = mock(RHService.class);
+		
+		var dao = new PessoaDAO(rhServiceMock);
+		var res = dao.existePessoa("Monkey D. Luffy");
+		assertTrue(true, res);
+		
+	}
+
+}

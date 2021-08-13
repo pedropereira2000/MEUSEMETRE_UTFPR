@@ -1,0 +1,29 @@
+package exemplo2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import static org.mockito.Mockito.*;
+
+import org.junit.jupiter.api.Test;
+
+class RelatorioDeFuncionariosTest {
+
+	//Existem 2 funcionários na categoria “tecnico” que 
+	//não estão com o CPF bloqueado
+	
+	@Test
+	void testTecnicoSemCPFBloqueado() {
+		//mock
+		var funcDaoMock = mock(FuncionarioDAO.class);
+		var rfMock = mock(ReceitaFederal.class);
+
+		//configura
+		
+		//testa o metodo
+		var rel = new RelatorioDeFuncionarios(funcDaoMock);
+		rel.setRf(rfMock);
+		
+		assertEquals(0, rel.getFuncComCPFBloqueado("tecnico"));
+	}
+
+}

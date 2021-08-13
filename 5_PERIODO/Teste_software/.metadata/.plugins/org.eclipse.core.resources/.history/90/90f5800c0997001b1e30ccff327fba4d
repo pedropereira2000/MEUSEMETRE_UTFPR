@@ -1,0 +1,6 @@
+package Exercicio9;
+
+public class Snippet {
+	 public Salario calcularSalario(String tipoEmpregado, int horasTrabalhadas) {        //todo        return null;    }
+}
+

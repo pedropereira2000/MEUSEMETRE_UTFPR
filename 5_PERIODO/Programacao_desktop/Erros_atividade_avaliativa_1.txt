@@ -1,0 +1,42 @@
+Não ficou claro porque usou o operador 
+static ao definir os atributos da classe 
+Cliente.[ok]
+
+Ao iniciar a aplicação recebo a mensagem 
+"No such file or directoryErro ao ler arquivo."[ok]
+
+Erro ao tentar excluir um cliente "Exception 
+in thread "AWT-EventQueue-0" 
+java.lang.StringIndexOutOfBoundsException: begin 11, end -3, length 0"
+Tentar centralizar o tratamento dos erros[ok]
+
+--------> segunda parte da avaliação <-----------
+
+Converter salvamento dos clientes para byte [X]
+	salvar[X]
+	editar[X]
+	excluir[X]
+	buscar[X]
+
+Converter salvamento dos filmes para byte [X]
+	salvar[X]
+	editar[X]
+	excluir[X]
+	buscar[X]
+
+Converter salvamento das locações para byte [X]
+	salvar[X]
+	editar[X]
+	excluir[X]
+	buscar[X]	
+	setarDevolução[X]
+
+Corrigir chamada das funções nas views [X]
+	cliente[X]
+	filme[X]
+	locadora[X]
+
+Corrigir tratamento de exceções e mensagens para o usuário[X]
+	cliente[X]
+	filme[X]
+	locadora[X]
