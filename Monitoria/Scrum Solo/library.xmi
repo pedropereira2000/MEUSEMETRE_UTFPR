@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_b2nogGYcEemAB7k9F4j3Rw" guid="_b2nogGYcEemAB7k9F4j3Rw">
+    <subManagers xmi:id="_lvKa8GYcEemAB7k9F4j3Rw" href="uma://_lvIlwGYcEemAB7k9F4j3Rw#_lvKa8GYcEemAB7k9F4j3Rw"/>
+    <resourceDescriptors xmi:id="_b2nogWYcEemAB7k9F4j3Rw" id="_b2nBcGYcEemAB7k9F4j3Rw" uri=""/>
+    <resourceDescriptors xmi:id="_lvKa8WYcEemAB7k9F4j3Rw" id="_lvIlwGYcEemAB7k9F4j3Rw" uri="new_plug-in/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_b2nBcGYcEemAB7k9F4j3Rw" name="Scrum Solo" guid="_b2nBcGYcEemAB7k9F4j3Rw">
+    <methodElementProperty xmi:id="_b3smkGYcEemAB7k9F4j3Rw" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_lvIlwGYcEemAB7k9F4j3Rw" href="uma://_lvIlwGYcEemAB7k9F4j3Rw#_lvIlwGYcEemAB7k9F4j3Rw"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>
