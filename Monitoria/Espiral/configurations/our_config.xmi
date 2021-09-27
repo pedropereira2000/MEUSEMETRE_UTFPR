@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_WpWaQFsXEemwceA2e3ejPQ" name="our_config" guid="_WpWaQFsXEemwceA2e3ejPQ">
-  <methodElementProperty xmi:id="_YITEgFsXEemwceA2e3ejPQ" name="me_edited" value="true"/>
-  <methodPluginSelection href="uma://_qWyOMFsXEemwceA2e3ejPQ#_qWyOMFsXEemwceA2e3ejPQ"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_qWyOMFsXEemwceA2e3ejPQ#_qWyOPlsXEemwceA2e3ejPQ"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_cW3LIFshEemeW42UOTlWfQ#_cW3LIFshEemeW42UOTlWfQ"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_qWyOMFsXEemwceA2e3ejPQ#_4522EFsXEemwceA2e3ejPQ"/>
-  <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_qWyOMFsXEemwceA2e3ejPQ#_pdE90F1uEemUBZDOZ6pH4w"/>
-</org.eclipse.epf.uma:MethodConfiguration>

@@ -1,5 +1,0 @@
-package exemplo2;
-
-public class FuncionarioDAO {
-	public ArrayList<Funcionario> getFuncionariosBy(String categoria);
-}

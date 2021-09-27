@@ -1,2 +1,0 @@
-arquivos.ControllerArquivoBinario
-arquivos.ControllerArquivoBinario$1

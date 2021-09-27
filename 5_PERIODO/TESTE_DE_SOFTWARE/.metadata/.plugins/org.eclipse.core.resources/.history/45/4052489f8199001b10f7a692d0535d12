@@ -1,5 +1,0 @@
-package exercicio8;
-
-public interface UsuarioDAO {
-	public ArrayList<Usuario> getAllUsuarios();
-}
