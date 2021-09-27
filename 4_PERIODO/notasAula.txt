@@ -1,0 +1,24 @@
+----------------------------------------------//---------------------------------------------
+APOO - 03/08
+    ->Revisão Diagrama de casos de uso,
+    ->Diagrama de atividades Fazer [OK];
+----------------------------------------------//---------------------------------------------  
+SEGURANÇA - 04/08
+    ->Apresentação plano de ensino,
+    ->Revisão da matéria dada,
+    ->Hash e aplicações hash,
+    ->Atividade 1 Fazer []
+----------------------------------------------//---------------------------------------------  
+TEORIA DA COMPUTAÇÃO - 05/08
+    ->Revisão,
+    ->Exercícios,
+    ->Assistir video aulas []
+----------------------------------------------//--------------------------------------------- 
+APOO - 10/08
+    ->Diagrama de atividades, Fazer []
+    ->Diagrama de classes
+----------------------------------------------//--------------------------------------------- 
+SEGURANÇA - 11/08
+    ->HashCat Fazer [OK] (senha:fa12p2k3)(hash:f98c9d7b5a346223eec81b42d96f7597),
+    ->Atividade 2 Fazer [] (está no slide),
+    ->Revisão, Blockchain, Algoritmos de Consenso, Proof of Work, Proof of Stake e Problemas de Segurança.
