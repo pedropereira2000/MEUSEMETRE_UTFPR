@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Export-Package: org.eclipse.epf.uma.edit.command,org.eclipse.epf.uma.e
+ dit.domain,org.eclipse.epf.uma.provider
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.emf.edit;visibili
+ ty:=reexport,org.eclipse.epf.uma;visibility:=reexport
+Bundle-Vendor: %providerName
+Eclipse-LazyStart: true
+Bundle-ClassPath: umaedit.jar
+Bundle-Version: 1.5.0.v20180517_2101
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-Activator: org.eclipse.epf.uma.provider.UmaEditPlugin$Implement
+ ation
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.epf.uma.edit;singleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+

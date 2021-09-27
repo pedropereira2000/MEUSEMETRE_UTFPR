@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_5Y-pgGCSEemVQOkJIMv_aw" guid="_5Y-pgGCSEemVQOkJIMv_aw">
+    <subManagers xmi:id="_7-3GoGCSEemVQOkJIMv_aw" href="uma://_7-y1MGCSEemVQOkJIMv_aw#_7-3GoGCSEemVQOkJIMv_aw"/>
+    <resourceDescriptors xmi:id="_5Y_3oGCSEemVQOkJIMv_aw" id="_5Y80UGCSEemVQOkJIMv_aw" uri=""/>
+    <resourceDescriptors xmi:id="_7-3GoWCSEemVQOkJIMv_aw" id="_7-y1MGCSEemVQOkJIMv_aw" uri="PluginProcessUnificado/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_5Y80UGCSEemVQOkJIMv_aw" name="ProcessUnificado" guid="_5Y80UGCSEemVQOkJIMv_aw">
+    <methodElementProperty xmi:id="_5b9sEGCSEemVQOkJIMv_aw" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_7-y1MGCSEemVQOkJIMv_aw" href="uma://_7-y1MGCSEemVQOkJIMv_aw#_7-y1MGCSEemVQOkJIMv_aw"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>
