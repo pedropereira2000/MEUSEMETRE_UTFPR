@@ -1,0 +1,14 @@
+package Exercicio9;
+
+public class CalcularDesconto {
+	private DescontoDAO descontoDao;
+	
+	public CalcularDesconto(DescontoDAO descontoDao) {
+		this.descontoDao = descontoDao;
+	}
+	
+	public realizarCalculo(String tipoCli) {
+		//continuacao do method
+		return 0;
+	}
+}

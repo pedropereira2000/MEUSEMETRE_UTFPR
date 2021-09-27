@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="04_Lista_exercicio/src"/>
+	<classpathentry kind="src" path="04_Lista_exercicio/test"/>
+	<classpathentry kind="src" path="Atividade_06_cx_preta_PCL_AVL/src"/>
+	<classpathentry kind="src" path="Atividade_06_cx_preta_PCL_AVL/test"/>
+	<classpathentry kind="src" path="Atividade_07_PCE_AVL/src"/>
+	<classpathentry kind="src" path="Atividade_07_PCE_AVL/test"/>
+	<classpathentry kind="src" path="Atividade_08_Tabela_decisao/src"/>
+	<classpathentry kind="src" path="Atividade_08_Tabela_decisao/test"/>
+	<classpathentry kind="src" path="Atividade_3/src"/>
+	<classpathentry kind="src" path="Atividade_3/test"/>
+	<classpathentry kind="src" path="Atividade_7/src"/>
+	<classpathentry kind="src" path="Atividade_7/test"/>
+	<classpathentry kind="src" path="Aula_09_04/src"/>
+	<classpathentry kind="src" path="Aula_09_04/test"/>
+	<classpathentry kind="src" path="Aula_26_03/src"/>
+	<classpathentry kind="src" path="Aula_26_03/test"/>
+	<classpathentry kind="src" path="Aula1/src"/>
+	<classpathentry kind="src" path="Aula1/test"/>
+	<classpathentry kind="src" path="Aula2/src"/>
+	<classpathentry kind="src" path="Aula2/test"/>
+	<classpathentry kind="src" path="Entregas/Avaliacao1/src"/>
+	<classpathentry kind="src" path="Entregas/Avaliacao1/test"/>
+	<classpathentry kind="lib" path="04_Lista_exercicio/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Atividade_07_PCE_AVL/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Atividade_08_Tabela_decisao/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Atividade_7/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Aula_09_04/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Aula_26_03/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Aula2/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="Entregas/Avaliacao1/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="mockito-all-1.10.19.jar"/>
+	<classpathentry kind="output" path="04_Lista_exercicio/bin"/>
+</classpath>

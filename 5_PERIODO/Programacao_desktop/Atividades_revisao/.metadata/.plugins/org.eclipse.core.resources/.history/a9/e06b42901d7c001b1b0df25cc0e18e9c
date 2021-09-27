@@ -1,0 +1,26 @@
+package Pessoa;
+
+public class Pessoa {
+	String nome;
+	double peso, altura;
+
+	public Pessoa(String nome, double peso, double altura) {
+		this.nome = nome;
+		this.peso = peso;
+		this.altura = altura;
+	} 
+	
+	double getPeso() {
+		return this.peso;
+	}
+	
+	double getAltura() {
+		return this.altura;
+	}
+	
+	String getNome() {
+		return this.nome;
+	}
+	
+	
+}

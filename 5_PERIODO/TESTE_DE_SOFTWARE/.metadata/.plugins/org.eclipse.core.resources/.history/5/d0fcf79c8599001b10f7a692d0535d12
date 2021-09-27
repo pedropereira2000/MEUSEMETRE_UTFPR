@@ -1,0 +1,28 @@
+package exercicio8;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+
+import org.junit.jupiter.api.Test;
+
+class EmissarioTest {
+
+	@Test
+	void testNomeNulo() {
+		var daoMock = mock(UsuarioDAO.class);
+		var emailMock = mock(ServidorDeEmail.class);
+		var criptoMock = mock(Criptografia.class);
+		var emissario = new Emissario(daoMock, emailMock);
+		emissario.setCriptografia(criptoMock);
+		
+		var res = emissario.enviarPara(null);
+		
+		assertEquals("nomes nao informados", res);
+	}
+	
+	@Test
+	void test() {
+		
+	}
+
+}

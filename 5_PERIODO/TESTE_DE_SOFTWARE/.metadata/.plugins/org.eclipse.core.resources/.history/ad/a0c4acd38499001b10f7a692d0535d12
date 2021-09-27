@@ -1,0 +1,16 @@
+package exercicio8;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+
+import org.junit.jupiter.api.Test;
+
+class EmissarioTest {
+
+	@Test
+	void test() {
+		var daoMock = mock(UsuarioDAO.class);
+		var emailMock = mock(ServidorDeEmail.class);
+	}
+
+}

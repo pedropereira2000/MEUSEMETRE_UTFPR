@@ -1,0 +1,31 @@
+package exemplo1;
+
+public class Pessoa {
+	int codigo, idade;
+	String nome;
+
+	//getters and setters
+	public int getCodigo() {
+		return codigo;
+	}
+
+	public int getIdate() {
+		return idade;
+	}
+	
+	public String getNome() {
+		return nome;
+	}
+	
+	public void setCodigo(int cod) {
+		codigo = cod;
+	}
+	
+	public void setIdade(int idi) {
+		idade = idi;
+	}
+	
+	public void setNome(String n) {
+		nome = n;
+	}
+}

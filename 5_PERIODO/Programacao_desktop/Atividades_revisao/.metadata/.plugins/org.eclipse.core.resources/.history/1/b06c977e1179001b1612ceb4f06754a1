@@ -1,0 +1,19 @@
+package Aluno2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class AlunoTest {
+
+	@Test
+	void testCalcMedias() {
+		var alu = new Aluno();
+		alu.recebeNota1(10);
+		alu.recebeNota2(10);
+		alu.recebeNota3(10);
+		alu.recebeNota4(10);
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CalcularDescontoTest {
+
+	@Test
+	void testCT1() {
+		var descontoDaoMock
+	}
+
+}

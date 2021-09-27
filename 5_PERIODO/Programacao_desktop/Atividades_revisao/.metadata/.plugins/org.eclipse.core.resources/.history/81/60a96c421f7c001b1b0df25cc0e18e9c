@@ -1,0 +1,29 @@
+package CalculadoraImc;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import Pessoa.Pessoa;
+
+class IMCCalculadoraTest {
+
+	@Test
+	void testLancarExcecao() {
+		Pessoa p = new Pessoa("pedro",-85.0,-1.75);
+		IMCCalculadora calc = new IMCCalculadora();
+		assertThrows(Exception.class, () -> {
+			calc.calcular(p);
+		});
+	}
+	
+	@Test
+	void testAbaixoPeso() {
+		Pessoa p = new Pessoa("pedro",-85.0,-1.75);
+		IMCCalculadora calc = new IMCCalculadora();
+		assertThrows(Exception.class, () -> {
+			calc.calcular(p);
+		});
+	}
+
+}

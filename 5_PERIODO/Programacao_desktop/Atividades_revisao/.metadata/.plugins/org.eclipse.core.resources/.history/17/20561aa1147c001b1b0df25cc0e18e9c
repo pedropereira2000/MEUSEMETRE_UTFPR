@@ -1,0 +1,16 @@
+package Utilitario;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class UtilitarioTest {
+
+	@Test
+	void acharExtremosVetor1() {
+		Utilitario util = new Utilitario();
+		
+		int vet[] = [1,2,3,4,5,6];
+	}
+
+}

@@ -1,0 +1,19 @@
+package exercicio8;
+
+
+
+public class VerificadorDeSenhas {
+	
+	Dicionario dic;
+	private String senhaFornecida;
+
+	public VerificadorDeSenhas(Dicionario dic) {
+		this.dic = dic;
+	}
+	
+	public boolean validarNovaSenha(String senhaFornecida) {         
+		this.senhaFornecida = senhaFornecida;
+		//TODO         
+		return true;
+	}
+}

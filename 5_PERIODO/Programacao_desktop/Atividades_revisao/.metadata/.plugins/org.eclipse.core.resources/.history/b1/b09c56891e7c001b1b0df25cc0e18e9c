@@ -1,0 +1,15 @@
+package CalculadoraImc;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class IMCCalculadoraTest {
+
+	@Test
+	void testLancarExcecao() {
+		IMCCalculadora calc = new IMCCalculadora();
+		
+	}
+
+}
