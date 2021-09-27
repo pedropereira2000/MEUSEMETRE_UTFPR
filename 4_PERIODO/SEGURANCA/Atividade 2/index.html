@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> </script>
+    <script src="bundle.js"></script>
+    <link href="style.css" rel="stylesheet">
+   
+<script language='JavaScript'>
+    function SomenteNumero(e){
+        var tecla=(window.event)?event.keyCode:e.which;   
+        if((tecla>47 && tecla<58)) return true;
+        else{
+            if (tecla==8 || tecla==0) return true;
+        else  return false;
+        }
+    }
+    </script>
+    <script language='JavaScript'>
+    function SomenteNumero(e){
+        var tecla=(window.event)?event.keyCode:e.which;   
+        if((tecla>47 && tecla<58)) return true;
+        else{
+            if (tecla==8 || tecla==0) return true;
+        else  return false;
+        }
+    }
+    </script>
+     
+    
+</head>
+<body>
+    <form class="itens">
+        <input type="text" id="info">
+        <input type="button" value="Enviar" id="add"></input>
+        <input type="button" value="Verificar Integridade" id="verify"></in>
+        <input type="button" value="Editar" id="edit"></in>
+        <input type="button" value="Validar" id="valid" style="display: none;"></in>
+        <label type="text" id="difficult" style="display: none;"></label>
+    </form>
+    <div id="blocks" >
+        <!--<textarea name="" id="blockChain" cols="100" rows="300"></textarea>-->
+    </div>
+</body>
+</html>
