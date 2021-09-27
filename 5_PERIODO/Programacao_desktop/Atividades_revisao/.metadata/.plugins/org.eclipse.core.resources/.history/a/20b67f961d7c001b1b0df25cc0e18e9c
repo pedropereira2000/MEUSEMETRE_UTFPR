@@ -1,0 +1,19 @@
+package ImcStatus;
+
+public class IMCStatus {
+	double imc;
+	String classificacao;
+
+	public IMCStatus(double imc, String classificacao) {
+		this.imc = imc;
+		this.classificacao = classificacao;
+	} 
+	
+	double getIMC() {
+		return this.imc;
+	}
+	
+	String getClassificacao() {
+		return this.classificacao;
+	}
+}

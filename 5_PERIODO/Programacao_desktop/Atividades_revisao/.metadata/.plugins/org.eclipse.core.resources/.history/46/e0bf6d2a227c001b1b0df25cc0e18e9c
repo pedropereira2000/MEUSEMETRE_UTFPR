@@ -1,0 +1,40 @@
+package Classificador;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import PessoaEx4.Pessoa;
+
+class ClassificadorTest {
+
+	@Test
+	void testIdadeInvalida() {
+		Pessoa p = new Pessoa("Ismael",220);
+		Classificador cla = new Classificador();
+		
+		Exception ex = assertThrows();
+		
+	}
+	
+	@Test
+	void testPessoaCrianca() {
+		
+	}
+	
+	@Test
+	void testPessoaAdolecente() {
+		
+	}
+	
+	@Test
+	void testPessoaAdulta() {
+		
+	}
+	
+	@Test
+	void testPessoaIdosa() {
+		
+	}
+
+}

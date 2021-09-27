@@ -1,0 +1,16 @@
+package Aleatorio;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class AleatorioTest {
+
+	@Test
+	void test() {
+		Aleatorio al = new Aleatorio();
+		
+		al.gerarNumeroAleatorio(-2, 10);
+	}
+
+}

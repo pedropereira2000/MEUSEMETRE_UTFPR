@@ -1,0 +1,5 @@
+package Exercicio9;
+
+public interface Desconto {
+	public int getDesconto(String tipoCli);
+}

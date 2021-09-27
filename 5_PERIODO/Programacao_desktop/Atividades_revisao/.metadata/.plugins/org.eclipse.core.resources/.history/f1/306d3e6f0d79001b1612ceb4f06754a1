@@ -1,0 +1,17 @@
+package Inteiro;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class InteiroTest {
+
+	@Test
+	void testSoma() {
+		var inte = new Inteiro();
+		inte.carregaValor(2);
+		assertEquals(4,inte.soma(2));
+		
+	}
+
+}

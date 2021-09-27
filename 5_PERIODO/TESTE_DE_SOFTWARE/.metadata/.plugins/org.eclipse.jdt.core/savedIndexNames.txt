@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Pedro Pereira\Desktop\UTFPR\TESTE_DE_SOFTWARE\.metadata\.plugins\org.eclipse.jdt.core
+1725433682.index
+807598314.index
+3810599101.index
+1310827740.index
+2678154978.index
+3519258539.index
+2317593158.index
+2363829887.index
+3682835752.index

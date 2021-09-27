@@ -1,0 +1,30 @@
+{
+	funcionario: Débora
+	titulo: América
+	studio: Sony
+	rg-cliente: 55.015.643-4
+	data: 15/03/1011
+	periodo-alugado: 1
+	valor: 20.0
+	devolvido: true
+}
+{
+	funcionario: Pedro
+	titulo: Corrida
+	studio: Disney
+	rg-cliente: 55.015.643-4
+	data: 02/04/2021
+	periodo-alugado: 1
+	valor: 30.0
+	devolvido: true
+}
+{
+	funcionario: Pedro
+	titulo: Homem Aranha
+	studio: Sony
+	rg-cliente: 00.000.000-0
+	data: 05/04/1011
+	periodo-alugado: 1
+	valor: 30.0
+	devolvido: true
+}

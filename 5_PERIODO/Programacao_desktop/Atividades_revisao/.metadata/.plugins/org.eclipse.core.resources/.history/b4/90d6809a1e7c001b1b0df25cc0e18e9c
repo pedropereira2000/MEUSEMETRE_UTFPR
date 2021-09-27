@@ -1,0 +1,17 @@
+package CalculadoraImc;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class IMCCalculadoraTest {
+
+	@Test
+	void testLancarExcecao() {
+		Pessoa p = new Pessoa();
+		p.Pessoa("pedro",-85.0,-1.75);
+		IMCCalculadora calc = new IMCCalculadora();
+		calc.
+	}
+
+}

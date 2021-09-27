@@ -1,0 +1,9 @@
+package Exercicio9;
+
+public class CalcularDesconto {
+	private DescontoDAO descontoDao;
+	
+	public CalcularDesconto(DescontoDAO descontoDao) {
+		
+	}
+}

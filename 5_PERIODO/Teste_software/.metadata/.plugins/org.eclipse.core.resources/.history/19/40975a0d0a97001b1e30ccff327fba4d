@@ -1,0 +1,14 @@
+package Exercicio17;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CalculadoraTest {
+
+	@Test
+	void testCT1() {
+		var calc = new Calculadora();
+	}
+
+}
