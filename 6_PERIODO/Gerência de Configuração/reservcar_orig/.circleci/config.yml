@@ -1,0 +1,40 @@
+# Java Gradle CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-java/ for more details
+#
+version: 2.1
+jobs:
+  build:
+    working_directory: ~/reservcar
+    docker:
+      - image: circleci/openjdk:11-jdk-stretch-node-browsers
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "build.gradle" }}
+            - v1-dependencies-
+      - run:
+          name: Run Wrapper
+          command: gradle wrapper
+      - run:
+          name: Run assemble
+          command: gradle clean assemble
+      - save_cache:
+          paths:
+            - ~/.gradle
+          key: v1-dependencies-{{ checksum "build.gradle" }}
+workflows:
+  development_deploy:
+    jobs:
+      - build:
+          requires:
+            - hold
+          filters:
+            branches:
+              only:
+                - test
+      - hold:
+          type: approval
+          #requires:
+            #- test
